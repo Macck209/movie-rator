@@ -1,0 +1,6346 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "movie_title": "Stalker",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 1
+    },
+    {
+      "id": 2,
+      "movie_title": "Herkules",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 2
+    },
+    {
+      "id": 3,
+      "movie_title": "Podr\u00f3\u017c na Ksi\u0119\u017cyc",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 3
+    },
+    {
+      "id": 4,
+      "movie_title": "\u015alepy zau\u0142ek",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 4
+    },
+    {
+      "id": 5,
+      "movie_title": "Infiltracja",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 5
+    },
+    {
+      "id": 6,
+      "movie_title": "Bez przebaczenia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 6
+    },
+    {
+      "id": 7,
+      "movie_title": "Magnolia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 7
+    },
+    {
+      "id": 8,
+      "movie_title": "Krwawy sport",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 8
+    },
+    {
+      "id": 9,
+      "movie_title": "Dzika droga",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 9
+    },
+    {
+      "id": 10,
+      "movie_title": "Filadelfia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 10
+    },
+    {
+      "id": 11,
+      "movie_title": "Podr\u00f3\u017c za jeden u\u015bmiech",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 11
+    },
+    {
+      "id": 12,
+      "movie_title": "Dziewczyna z Jersey",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 12
+    },
+    {
+      "id": 13,
+      "movie_title": "Bez lito\u015bci 3. Ostatni rozdzia\u0142",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 13
+    },
+    {
+      "id": 14,
+      "movie_title": "Godland",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 14
+    },
+    {
+      "id": 15,
+      "movie_title": "Szybki jak b\u0142yskawica",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 15
+    },
+    {
+      "id": 16,
+      "movie_title": "\u015anie\u017cne bractwo",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 16
+    },
+    {
+      "id": 17,
+      "movie_title": "P\u0142omienie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 17
+    },
+    {
+      "id": 18,
+      "movie_title": "Limbo",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 18
+    },
+    {
+      "id": 19,
+      "movie_title": "Myszy i ludzie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 19
+    },
+    {
+      "id": 20,
+      "movie_title": "Bokser",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 20
+    },
+    {
+      "id": 21,
+      "movie_title": "Ch\u0142opaki nie p\u0142acz\u0105",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 21
+    },
+    {
+      "id": 22,
+      "movie_title": "Shimmer Lake",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 22
+    },
+    {
+      "id": 23,
+      "movie_title": "Dzie\u0144 ba\u0142wana",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 23
+    },
+    {
+      "id": 24,
+      "movie_title": "Dotyk serca",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 24
+    },
+    {
+      "id": 25,
+      "movie_title": "Dow\u00f3d",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 25
+    },
+    {
+      "id": 26,
+      "movie_title": "Wr\u00f3g",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 26
+    },
+    {
+      "id": 27,
+      "movie_title": "Pi",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 27
+    },
+    {
+      "id": 28,
+      "movie_title": "Sanatorium pod klepsydr\u0105",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 28
+    },
+    {
+      "id": 29,
+      "movie_title": "Kronika",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 29
+    },
+    {
+      "id": 30,
+      "movie_title": "Zimne piek\u0142o",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 30
+    },
+    {
+      "id": 31,
+      "movie_title": "Godzilla II: Kr\u00f3l potwor\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 31
+    },
+    {
+      "id": 32,
+      "movie_title": "Zostaw \u015bwiat za sob\u0105",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 32
+    },
+    {
+      "id": 33,
+      "movie_title": "Niedoko\u0144czone \u017cycie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 33
+    },
+    {
+      "id": 34,
+      "movie_title": "Free Solo: ekstremalna wspinaczka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 34
+    },
+    {
+      "id": 35,
+      "movie_title": "Krzywe linie Boga",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 35
+    },
+    {
+      "id": 36,
+      "movie_title": "Diabelska prze\u0142\u0119cz",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 36
+    },
+    {
+      "id": 37,
+      "movie_title": "O czym \u015bni\u0105 wieloryby",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 37
+    },
+    {
+      "id": 38,
+      "movie_title": "Telefon",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 38
+    },
+    {
+      "id": 39,
+      "movie_title": "To ju\u017c jest koniec",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 39
+    },
+    {
+      "id": 40,
+      "movie_title": "La chimera",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 40
+    },
+    {
+      "id": 41,
+      "movie_title": "Zab\u00f3jca",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 41
+    },
+    {
+      "id": 42,
+      "movie_title": "Puchatek: Krew i mi\u00f3d",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 42
+    },
+    {
+      "id": 43,
+      "movie_title": "Przekle\u0144stwa niewinno\u015bci",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 43
+    },
+    {
+      "id": 44,
+      "movie_title": "Pi\u0119\u0107 koszmarnych nocy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 44
+    },
+    {
+      "id": 45,
+      "movie_title": "Mission: Impossible - Dead Reckoning - Part One",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 45
+    },
+    {
+      "id": 46,
+      "movie_title": "Zemsta po latach",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 46
+    },
+    {
+      "id": 47,
+      "movie_title": "Wyspa ps\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 47
+    },
+    {
+      "id": 48,
+      "movie_title": "Z\u0142omek i b\u0142\u0119dny ognik",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 48
+    },
+    {
+      "id": 49,
+      "movie_title": "Droga do miasta",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 49
+    },
+    {
+      "id": 50,
+      "movie_title": "La La Land",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 50
+    },
+    {
+      "id": 51,
+      "movie_title": "Zag\u0142ada domu Usher\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 51
+    },
+    {
+      "id": 52,
+      "movie_title": "Ma\u0142a dziewczynka, kt\u00f3ra mieszka na ko\u0144cu drogi",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 52
+    },
+    {
+      "id": 53,
+      "movie_title": "Widz\u0119 ci\u0119",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 53
+    },
+    {
+      "id": 54,
+      "movie_title": "Opowie\u015b\u0107 wigilijna",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 54
+    },
+    {
+      "id": 55,
+      "movie_title": "Skubani",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 55
+    },
+    {
+      "id": 56,
+      "movie_title": "Pan Peabody i Sherman",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 56
+    },
+    {
+      "id": 57,
+      "movie_title": "Piorun",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 57
+    },
+    {
+      "id": 58,
+      "movie_title": "Za\u0142oga G",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 58
+    },
+    {
+      "id": 59,
+      "movie_title": "Alvin i wiewi\u00f3rki 2",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 59
+    },
+    {
+      "id": 60,
+      "movie_title": "Czerwony Kapturek - Prawdziwa historia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 60
+    },
+    {
+      "id": 61,
+      "movie_title": "Wallace i Gromit: Kl\u0105twa kr\u00f3lika",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 61
+    },
+    {
+      "id": 62,
+      "movie_title": "Potwory kontra Obcy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 62
+    },
+    {
+      "id": 63,
+      "movie_title": "Artur i zemsta Maltazara",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 63
+    },
+    {
+      "id": 64,
+      "movie_title": "Piotru\u015b Pan",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 64
+    },
+    {
+      "id": 65,
+      "movie_title": "Simpsonowie: Wersja kinowa",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 65
+    },
+    {
+      "id": 66,
+      "movie_title": "Artur i Minimki",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 66
+    },
+    {
+      "id": 67,
+      "movie_title": "Skok przez p\u0142ot",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 67
+    },
+    {
+      "id": 68,
+      "movie_title": "Madagaskar 3",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 68
+    },
+    {
+      "id": 69,
+      "movie_title": "Rodzinka Robinson\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 69
+    },
+    {
+      "id": 70,
+      "movie_title": "\u0141ab\u0119d\u017a",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 70
+    },
+    {
+      "id": 71,
+      "movie_title": "Szczuro\u0142ap",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 71
+    },
+    {
+      "id": 72,
+      "movie_title": "Trucizna",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 72
+    },
+    {
+      "id": 73,
+      "movie_title": "Tango",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 73
+    },
+    {
+      "id": 74,
+      "movie_title": "Niezno\u015bny ci\u0119\u017car wielkiego talentu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 74
+    },
+    {
+      "id": 75,
+      "movie_title": "M\u00f3w mi Dave",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 75
+    },
+    {
+      "id": 76,
+      "movie_title": "Gad",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 76
+    },
+    {
+      "id": 77,
+      "movie_title": "Hrabia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 77
+    },
+    {
+      "id": 78,
+      "movie_title": "Zdumiewaj\u0105ca historia Henry\u2019ego Sugara",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 78
+    },
+    {
+      "id": 79,
+      "movie_title": "Threads",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 79
+    },
+    {
+      "id": 80,
+      "movie_title": "Blisko",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 80
+    },
+    {
+      "id": 81,
+      "movie_title": "Blue Jasmine",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 81
+    },
+    {
+      "id": 82,
+      "movie_title": "Ale miazga!",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 82
+    },
+    {
+      "id": 83,
+      "movie_title": "Larry Crowne - u\u015bmiech losu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 83
+    },
+    {
+      "id": 84,
+      "movie_title": "Indiana Jones i artefakt przeznaczenia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 84
+    },
+    {
+      "id": 85,
+      "movie_title": "\u015amier\u0107 Stalina",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 85
+    },
+    {
+      "id": 86,
+      "movie_title": "By\u0107 jak John Malkovich",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 86
+    },
+    {
+      "id": 87,
+      "movie_title": "Air",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 87
+    },
+    {
+      "id": 88,
+      "movie_title": "Zagadka Kaspara Hausera",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 88
+    },
+    {
+      "id": 89,
+      "movie_title": "Wilk z Wall Street",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 89
+    },
+    {
+      "id": 90,
+      "movie_title": "\u017by\u0107 i umrze\u0107 w Los Angeles",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 90
+    },
+    {
+      "id": 91,
+      "movie_title": "Millennium Actress",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 91
+    },
+    {
+      "id": 92,
+      "movie_title": "Morderstwo na zlecenie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 92
+    },
+    {
+      "id": 93,
+      "movie_title": "M\u00f3w do mnie!",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 93
+    },
+    {
+      "id": 94,
+      "movie_title": "Nieoszlifowane diamenty",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 94
+    },
+    {
+      "id": 95,
+      "movie_title": "Rodzice chrzestni z Tokio",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 95
+    },
+    {
+      "id": 96,
+      "movie_title": "Filip",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 96
+    },
+    {
+      "id": 97,
+      "movie_title": "Reality",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 97
+    },
+    {
+      "id": 98,
+      "movie_title": "Nice Guys. R\u00f3wni go\u015bcie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 98
+    },
+    {
+      "id": 99,
+      "movie_title": "Drive",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 99
+    },
+    {
+      "id": 100,
+      "movie_title": "Willy Wonka i fabryka czekolady",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 100
+    },
+    {
+      "id": 101,
+      "movie_title": "Zosta\u0144",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 101
+    },
+    {
+      "id": 102,
+      "movie_title": "Oto Spinal Tap",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 102
+    },
+    {
+      "id": 103,
+      "movie_title": "Dziwak",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 103
+    },
+    {
+      "id": 104,
+      "movie_title": "Ulepszenie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 104
+    },
+    {
+      "id": 105,
+      "movie_title": "Sklonowali Tyrone'a",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 105
+    },
+    {
+      "id": 106,
+      "movie_title": "Te\u015bciowie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 106
+    },
+    {
+      "id": 107,
+      "movie_title": "Bez \u015bladu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 107
+    },
+    {
+      "id": 108,
+      "movie_title": "Bracie, gdzie jeste\u015b?",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 108
+    },
+    {
+      "id": 109,
+      "movie_title": "D\u0142ugie po\u017cegnanie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 109
+    },
+    {
+      "id": 110,
+      "movie_title": "Miasteczko Twin Peaks. Ogniu krocz za mn\u0105.",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 110
+    },
+    {
+      "id": 111,
+      "movie_title": "Barbie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 111
+    },
+    {
+      "id": 112,
+      "movie_title": "Oppenheimer",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 112
+    },
+    {
+      "id": 113,
+      "movie_title": "Smok \u017cycze\u0144",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 113
+    },
+    {
+      "id": 114,
+      "movie_title": "Gra Endera",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 114
+    },
+    {
+      "id": 115,
+      "movie_title": "Stra\u017cnicy Galaktyki: Volume 3",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 115
+    },
+    {
+      "id": 116,
+      "movie_title": "Pi\u0119\u0107 \u0142atwych utwor\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 116
+    },
+    {
+      "id": 117,
+      "movie_title": "Asteroid City",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 117
+    },
+    {
+      "id": 118,
+      "movie_title": "Hrabia Monte Christo",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 118
+    },
+    {
+      "id": 119,
+      "movie_title": "Spider-Man: Poprzez multiwersum",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 119
+    },
+    {
+      "id": 120,
+      "movie_title": "Bodies Bodies Bodies",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 120
+    },
+    {
+      "id": 121,
+      "movie_title": "Babilon",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 121
+    },
+    {
+      "id": 122,
+      "movie_title": "Legalna blondynka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 122
+    },
+    {
+      "id": 123,
+      "movie_title": "Wy\u015bcig",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 123
+    },
+    {
+      "id": 124,
+      "movie_title": "Pan \u017cycia i \u015bmierci",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 124
+    },
+    {
+      "id": 125,
+      "movie_title": "Egzorcysta papie\u017ca",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 125
+    },
+    {
+      "id": 126,
+      "movie_title": "Dungeons &amp; Dragons: Z\u0142odziejski honor",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 126
+    },
+    {
+      "id": 127,
+      "movie_title": "Hugo i jego wynalazek",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 127
+    },
+    {
+      "id": 128,
+      "movie_title": "Bez przedawnienia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 128
+    },
+    {
+      "id": 129,
+      "movie_title": "Matka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 129
+    },
+    {
+      "id": 130,
+      "movie_title": "Perfect Blue",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 130
+    },
+    {
+      "id": 131,
+      "movie_title": "Zawr\u00f3t g\u0142owy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 131
+    },
+    {
+      "id": 132,
+      "movie_title": "Suzume",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 132
+    },
+    {
+      "id": 133,
+      "movie_title": "Du\u017ca ryba",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 133
+    },
+    {
+      "id": 134,
+      "movie_title": "R\u00f3wnoleg\u0142a rzeczywisto\u015b\u0107",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 134
+    },
+    {
+      "id": 135,
+      "movie_title": "R\u00f3b, co nale\u017cy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 135
+    },
+    {
+      "id": 136,
+      "movie_title": "Paprika",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 136
+    },
+    {
+      "id": 137,
+      "movie_title": "Kiler-\u00f3w 2-\u00f3ch",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 137
+    },
+    {
+      "id": 138,
+      "movie_title": "Skinamarink",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 138
+    },
+    {
+      "id": 139,
+      "movie_title": "Co\u015b",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 139
+    },
+    {
+      "id": 140,
+      "movie_title": "Good Time",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 140
+    },
+    {
+      "id": 141,
+      "movie_title": "Trzyna\u015bcie \u017cy\u0107",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 141
+    },
+    {
+      "id": 142,
+      "movie_title": "Si\u00f3dma piecz\u0119\u0107",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 142
+    },
+    {
+      "id": 143,
+      "movie_title": "Atlantyda - zaginiony l\u0105d",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 143
+    },
+    {
+      "id": 144,
+      "movie_title": "Ave, Cezar!",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 144
+    },
+    {
+      "id": 145,
+      "movie_title": "Genialny klan",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 145
+    },
+    {
+      "id": 146,
+      "movie_title": "Niebezpieczni d\u017centelmeni",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 146
+    },
+    {
+      "id": 147,
+      "movie_title": "Dom w g\u0142\u0119bi lasu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 147
+    },
+    {
+      "id": 148,
+      "movie_title": "Birdman czyli (Nieoczekiwane po\u017cytki z niewiedzy)",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 148
+    },
+    {
+      "id": 149,
+      "movie_title": "Poci\u0105g do Darjeeling",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 149
+    },
+    {
+      "id": 150,
+      "movie_title": "Godzilla Resurgence",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 150
+    },
+    {
+      "id": 151,
+      "movie_title": "Zaproszenie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 151
+    },
+    {
+      "id": 152,
+      "movie_title": "Atak meteoryt\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 152
+    },
+    {
+      "id": 153,
+      "movie_title": "Mudbound",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 153
+    },
+    {
+      "id": 154,
+      "movie_title": "Aposto\u0142",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 154
+    },
+    {
+      "id": 155,
+      "movie_title": "Black Adam",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 155
+    },
+    {
+      "id": 156,
+      "movie_title": "Cz\u0142owiek ze stali",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 156
+    },
+    {
+      "id": 157,
+      "movie_title": "Aftersun",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 157
+    },
+    {
+      "id": 158,
+      "movie_title": "7 psychopat\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 158
+    },
+    {
+      "id": 159,
+      "movie_title": "Kino objazdowe",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 159
+    },
+    {
+      "id": 160,
+      "movie_title": "T\u00e1r",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 160
+    },
+    {
+      "id": 161,
+      "movie_title": "Top Gun: Maverick",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 161
+    },
+    {
+      "id": 162,
+      "movie_title": "Kolor z przestworzy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 162
+    },
+    {
+      "id": 163,
+      "movie_title": "The Social Network",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 163
+    },
+    {
+      "id": 164,
+      "movie_title": "Sarnie \u017cniwo, czyli pokusa statuetkowego szlaku",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 164
+    },
+    {
+      "id": 165,
+      "movie_title": "Patrz jak kr\u0119c\u0105",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 165
+    },
+    {
+      "id": 166,
+      "movie_title": "Skok Henry'ego",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 166
+    },
+    {
+      "id": 167,
+      "movie_title": "Ni\u0107 widmo",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 167
+    },
+    {
+      "id": 168,
+      "movie_title": "Projekt Almanach: Witajcie we wczoraj",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 168
+    },
+    {
+      "id": 169,
+      "movie_title": "Sound of Metal",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 169
+    },
+    {
+      "id": 170,
+      "movie_title": "Najgorszy cz\u0142owiek na \u015bwiecie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 170
+    },
+    {
+      "id": 171,
+      "movie_title": "Everest",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 171
+    },
+    {
+      "id": 172,
+      "movie_title": "\u015amier\u0107 nadejdzie dzi\u015b",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 172
+    },
+    {
+      "id": 173,
+      "movie_title": "Apokawixa",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 173
+    },
+    {
+      "id": 174,
+      "movie_title": "Cie\u015bnina Block Island",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 174
+    },
+    {
+      "id": 175,
+      "movie_title": "Menu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 175
+    },
+    {
+      "id": 176,
+      "movie_title": "M\u00f3j s\u0105siad Totoro",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 176
+    },
+    {
+      "id": 177,
+      "movie_title": "Guillermo del Toro: Pinokio",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 177
+    },
+    {
+      "id": 178,
+      "movie_title": "Antebellum",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 178
+    },
+    {
+      "id": 179,
+      "movie_title": "Skrytka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 179
+    },
+    {
+      "id": 180,
+      "movie_title": "Scooby-Doo! Cukierek albo psikus",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 180
+    },
+    {
+      "id": 181,
+      "movie_title": "Zabicie \u015bwi\u0119tego jelenia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 181
+    },
+    {
+      "id": 182,
+      "movie_title": "Kot w butach: Ostatnie \u017cyczenie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 182
+    },
+    {
+      "id": 183,
+      "movie_title": "Anihilacja",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 183
+    },
+    {
+      "id": 184,
+      "movie_title": "Bielmo",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 184
+    },
+    {
+      "id": 185,
+      "movie_title": "Na Zachodzie bez zmian",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 185
+    },
+    {
+      "id": 186,
+      "movie_title": "Wolny dzie\u0144 pana Ferrisa Buellera",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 186
+    },
+    {
+      "id": 187,
+      "movie_title": "Trop",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 187
+    },
+    {
+      "id": 188,
+      "movie_title": "Bia\u0142y szum",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 188
+    },
+    {
+      "id": 189,
+      "movie_title": "Amityville",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 189
+    },
+    {
+      "id": 190,
+      "movie_title": "The Annabelle Story",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 190
+    },
+    {
+      "id": 191,
+      "movie_title": "Duchy Inisherin",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 191
+    },
+    {
+      "id": 192,
+      "movie_title": "Jako w piekle, tak i na Ziemi",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 192
+    },
+    {
+      "id": 193,
+      "movie_title": "Ukryte pi\u0119kno",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 193
+    },
+    {
+      "id": 194,
+      "movie_title": "Johnny",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 194
+    },
+    {
+      "id": 195,
+      "movie_title": "Benny i Joon",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 195
+    },
+    {
+      "id": 196,
+      "movie_title": "Motyl Still Alice",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 196
+    },
+    {
+      "id": 197,
+      "movie_title": "Je\u017adziec bez g\u0142owy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 197
+    },
+    {
+      "id": 198,
+      "movie_title": "Glass Onion: Film z serii \"Na no\u017ce\"",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 198
+    },
+    {
+      "id": 199,
+      "movie_title": "Radio",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 199
+    },
+    {
+      "id": 200,
+      "movie_title": "Zabita na \u015bmier\u0107",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 200
+    },
+    {
+      "id": 201,
+      "movie_title": "W tr\u00f3jk\u0105cie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 201
+    },
+    {
+      "id": 202,
+      "movie_title": "Troll",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 202
+    },
+    {
+      "id": 203,
+      "movie_title": "Osobliwy dom Pani Peregrine",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 203
+    },
+    {
+      "id": 204,
+      "movie_title": "W nieznane",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 204
+    },
+    {
+      "id": 205,
+      "movie_title": "Bez pami\u0119ci",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 205
+    },
+    {
+      "id": 206,
+      "movie_title": "Mistrz",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 206
+    },
+    {
+      "id": 207,
+      "movie_title": "Osobliwo\u015b\u0107",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 207
+    },
+    {
+      "id": 208,
+      "movie_title": "Ederly",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 208
+    },
+    {
+      "id": 209,
+      "movie_title": "Tajemnice Silver Lake",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 209
+    },
+    {
+      "id": 210,
+      "movie_title": "Bullet Train",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 210
+    },
+    {
+      "id": 211,
+      "movie_title": "Zatruta r\u00f3\u017ca",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 211
+    },
+    {
+      "id": 212,
+      "movie_title": "Zak\u0142adnik",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 212
+    },
+    {
+      "id": 213,
+      "movie_title": "Amsterdam",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 213
+    },
+    {
+      "id": 214,
+      "movie_title": "Kochaj \u017cycie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 214
+    },
+    {
+      "id": 215,
+      "movie_title": "To my",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 215
+    },
+    {
+      "id": 216,
+      "movie_title": "Londy\u0144ski bulwar",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 216
+    },
+    {
+      "id": 217,
+      "movie_title": "Punkt wrzenia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 217
+    },
+    {
+      "id": 218,
+      "movie_title": "Epidemia strachu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 218
+    },
+    {
+      "id": 219,
+      "movie_title": "Droga do El Dorado",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 219
+    },
+    {
+      "id": 220,
+      "movie_title": "Wirtuoz",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 220
+    },
+    {
+      "id": 221,
+      "movie_title": "The Ring - Kr\u0105g",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 221
+    },
+    {
+      "id": 222,
+      "movie_title": "D\u017centelmeni",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 222
+    },
+    {
+      "id": 223,
+      "movie_title": "Lokator",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 223
+    },
+    {
+      "id": 224,
+      "movie_title": "Nocna stra\u017c",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 224
+    },
+    {
+      "id": 225,
+      "movie_title": "Pok\u0142osie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 225
+    },
+    {
+      "id": 226,
+      "movie_title": "Dlaczego nie!",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 226
+    },
+    {
+      "id": 227,
+      "movie_title": "Telefon pana Harrigana",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 227
+    },
+    {
+      "id": 228,
+      "movie_title": "Ruchomy zamek Hauru",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 228
+    },
+    {
+      "id": 229,
+      "movie_title": "Pieskie popo\u0142udnie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 229
+    },
+    {
+      "id": 230,
+      "movie_title": "W samym sercu morza",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 230
+    },
+    {
+      "id": 231,
+      "movie_title": "Szesna\u015bcie mgnie\u0144 wiosny",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 231
+    },
+    {
+      "id": 232,
+      "movie_title": "Mr. Brooks",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 232
+    },
+    {
+      "id": 233,
+      "movie_title": "Kowboje i obcy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 233
+    },
+    {
+      "id": 234,
+      "movie_title": "Dawca pami\u0119ci",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 234
+    },
+    {
+      "id": 235,
+      "movie_title": "Equilibrium",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 235
+    },
+    {
+      "id": 236,
+      "movie_title": "Transcendencja",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 236
+    },
+    {
+      "id": 237,
+      "movie_title": "Zathura - Kosmiczna przygoda",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 237
+    },
+    {
+      "id": 238,
+      "movie_title": "Tw\u00f3j Vincent",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 238
+    },
+    {
+      "id": 239,
+      "movie_title": "Spirited Away: W krainie Bog\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 239
+    },
+    {
+      "id": 240,
+      "movie_title": "Don't Hug Me I'm Scared 6",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 240
+    },
+    {
+      "id": 241,
+      "movie_title": "Don't Hug Me I'm Scared 3",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 241
+    },
+    {
+      "id": 242,
+      "movie_title": "Don't Hug Me I'm Scared 5",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 242
+    },
+    {
+      "id": 243,
+      "movie_title": "Don't Hug Me I'm Scared 4",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 243
+    },
+    {
+      "id": 244,
+      "movie_title": "Don't Hug Me I'm Scared 2: Time",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 244
+    },
+    {
+      "id": 245,
+      "movie_title": "Don't Hug Me I'm Scared",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 245
+    },
+    {
+      "id": 246,
+      "movie_title": "I Don't Feel at Home in This World Anymore",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 246
+    },
+    {
+      "id": 247,
+      "movie_title": "21 gram\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 247
+    },
+    {
+      "id": 248,
+      "movie_title": "Chicago",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 248
+    },
+    {
+      "id": 249,
+      "movie_title": "Pan Wilk i sp\u00f3\u0142ka. Bad Guys",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 249
+    },
+    {
+      "id": 250,
+      "movie_title": "Co z oczu, to z serca",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 250
+    },
+    {
+      "id": 251,
+      "movie_title": "Mi\u0119dzy s\u0142owami",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 251
+    },
+    {
+      "id": 252,
+      "movie_title": "Dom",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 252
+    },
+    {
+      "id": 253,
+      "movie_title": "Ewolucja",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 253
+    },
+    {
+      "id": 254,
+      "movie_title": "Wstrz\u0105sy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 254
+    },
+    {
+      "id": 255,
+      "movie_title": "Ciche miejsce",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 255
+    },
+    {
+      "id": 256,
+      "movie_title": "Armia z\u0142odziei",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 256
+    },
+    {
+      "id": 257,
+      "movie_title": "1917",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 257
+    },
+    {
+      "id": 258,
+      "movie_title": "Zapowied\u017a",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 258
+    },
+    {
+      "id": 259,
+      "movie_title": "Okja",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 259
+    },
+    {
+      "id": 260,
+      "movie_title": "\u017b\u0105d\u0142o",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 260
+    },
+    {
+      "id": 261,
+      "movie_title": "Trzech Chrystus\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 261
+    },
+    {
+      "id": 262,
+      "movie_title": "Jackass: \u015awiry w akcji 3",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 262
+    },
+    {
+      "id": 263,
+      "movie_title": "Barton Fink",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 263
+    },
+    {
+      "id": 264,
+      "movie_title": "Mumia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 264
+    },
+    {
+      "id": 265,
+      "movie_title": "The Room",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 265
+    },
+    {
+      "id": 266,
+      "movie_title": "Kurier Francuski z Liberty, Kansas Evening Sun",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 266
+    },
+    {
+      "id": 267,
+      "movie_title": "Rzut \u017cycia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 267
+    },
+    {
+      "id": 268,
+      "movie_title": "365 dni",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 268
+    },
+    {
+      "id": 269,
+      "movie_title": "Gray Man",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 269
+    },
+    {
+      "id": 270,
+      "movie_title": "\u015aledz\u0105c",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 270
+    },
+    {
+      "id": 271,
+      "movie_title": "Belfast",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 271
+    },
+    {
+      "id": 272,
+      "movie_title": "Goonies",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 272
+    },
+    {
+      "id": 273,
+      "movie_title": "Sta\u0144 przy mnie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 273
+    },
+    {
+      "id": 274,
+      "movie_title": "Nie!",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 274
+    },
+    {
+      "id": 275,
+      "movie_title": "Medicus",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 275
+    },
+    {
+      "id": 276,
+      "movie_title": "Skazani na szko\u0142\u0119",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 276
+    },
+    {
+      "id": 277,
+      "movie_title": "Oldboy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 277
+    },
+    {
+      "id": 278,
+      "movie_title": "Siedem minut po p\u00f3\u0142nocy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 278
+    },
+    {
+      "id": 279,
+      "movie_title": "Barry Seal: Kr\u00f3l przemytu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 279
+    },
+    {
+      "id": 280,
+      "movie_title": "Morska bestia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 280
+    },
+    {
+      "id": 281,
+      "movie_title": "Snowpiercer: Arka przysz\u0142o\u015bci",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 281
+    },
+    {
+      "id": 282,
+      "movie_title": "Jack Reacher: Nigdy nie wracaj",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 282
+    },
+    {
+      "id": 283,
+      "movie_title": "Jack Reacher: Jednym strza\u0142em",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 283
+    },
+    {
+      "id": 284,
+      "movie_title": "Hostiles",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 284
+    },
+    {
+      "id": 285,
+      "movie_title": "Kapitan Phillips",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 285
+    },
+    {
+      "id": 286,
+      "movie_title": "Upadek",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 286
+    },
+    {
+      "id": 287,
+      "movie_title": "By\u0142o sobie k\u0142amstwo",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 287
+    },
+    {
+      "id": 288,
+      "movie_title": "Kokainowy Rick",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 288
+    },
+    {
+      "id": 289,
+      "movie_title": "Greenland",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 289
+    },
+    {
+      "id": 290,
+      "movie_title": "Predator 2: Starcie w miejskiej d\u017cungli",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 290
+    },
+    {
+      "id": 291,
+      "movie_title": "Predator",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 291
+    },
+    {
+      "id": 292,
+      "movie_title": "To\u017csamo\u015b\u0107 Bourne'a",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 292
+    },
+    {
+      "id": 293,
+      "movie_title": "Mi\u0142o\u015b\u0107 jest blisko",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 293
+    },
+    {
+      "id": 294,
+      "movie_title": "World War Z",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 294
+    },
+    {
+      "id": 295,
+      "movie_title": "Tani detektyw",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 295
+    },
+    {
+      "id": 296,
+      "movie_title": "Zabity na \u015bmier\u0107",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 296
+    },
+    {
+      "id": 297,
+      "movie_title": "Lepiej by\u0107 nie mo\u017ce",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 297
+    },
+    {
+      "id": 298,
+      "movie_title": "Poskromienie z\u0142o\u015bnicy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 298
+    },
+    {
+      "id": 299,
+      "movie_title": "1408",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 299
+    },
+    {
+      "id": 300,
+      "movie_title": "Ptakodemia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 300
+    },
+    {
+      "id": 301,
+      "movie_title": "Koniec zmiany",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 301
+    },
+    {
+      "id": 302,
+      "movie_title": "Doktor Strange w multiwersum ob\u0142\u0119du",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 302
+    },
+    {
+      "id": 303,
+      "movie_title": "Paj\u0119cza G\u0142owa",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 303
+    },
+    {
+      "id": 304,
+      "movie_title": "Droga",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 304
+    },
+    {
+      "id": 305,
+      "movie_title": "Przeznaczenie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 305
+    },
+    {
+      "id": 306,
+      "movie_title": "Dym",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 306
+    },
+    {
+      "id": 307,
+      "movie_title": "Top Gun",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 307
+    },
+    {
+      "id": 308,
+      "movie_title": "Cz\u0142owiek w ogniu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 308
+    },
+    {
+      "id": 309,
+      "movie_title": "Requiem dla snu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 309
+    },
+    {
+      "id": 310,
+      "movie_title": "On the Count of Three",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 310
+    },
+    {
+      "id": 311,
+      "movie_title": "Ptasiek",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 311
+    },
+    {
+      "id": 312,
+      "movie_title": "Lokatorka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 312
+    },
+    {
+      "id": 313,
+      "movie_title": "Debiutanci",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 313
+    },
+    {
+      "id": 314,
+      "movie_title": "Zagadka zbrodni",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 314
+    },
+    {
+      "id": 315,
+      "movie_title": "Umrze\u0107 powt\u00f3rnie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 315
+    },
+    {
+      "id": 316,
+      "movie_title": "Kac Vegas w Bangkoku",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 316
+    },
+    {
+      "id": 317,
+      "movie_title": "Skok stulecia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 317
+    },
+    {
+      "id": 318,
+      "movie_title": "Zwariowa\u0107 ze szcz\u0119\u015bcia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 318
+    },
+    {
+      "id": 319,
+      "movie_title": "Wszystko wsz\u0119dzie naraz",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 319
+    },
+    {
+      "id": 320,
+      "movie_title": "Zbaw nas ode z\u0142ego",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 320
+    },
+    {
+      "id": 321,
+      "movie_title": "Dzie\u0144 pr\u00f3by",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 321
+    },
+    {
+      "id": 322,
+      "movie_title": "Donnie Darko",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 322
+    },
+    {
+      "id": 323,
+      "movie_title": "The Ring",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 323
+    },
+    {
+      "id": 324,
+      "movie_title": "Projekt Adam",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 324
+    },
+    {
+      "id": 325,
+      "movie_title": "Powstrzyma\u0107 mrok",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 325
+    },
+    {
+      "id": 326,
+      "movie_title": "Doktor Strangelove, lub jak przesta\u0142em si\u0119 martwi\u0107 i pokocha\u0142em bomb\u0119",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 326
+    },
+    {
+      "id": 327,
+      "movie_title": "Najmro. Kocha, kradnie, szanuje",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 327
+    },
+    {
+      "id": 328,
+      "movie_title": "S\u0119dzia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 328
+    },
+    {
+      "id": 329,
+      "movie_title": "Duch",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 329
+    },
+    {
+      "id": 330,
+      "movie_title": "Cz\u0142owiek, kt\u00f3rego nie by\u0142o",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 330
+    },
+    {
+      "id": 331,
+      "movie_title": "Bogowie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 331
+    },
+    {
+      "id": 332,
+      "movie_title": "Policja zast\u0119pcza",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 332
+    },
+    {
+      "id": 333,
+      "movie_title": "Kung Pow: Wej\u015bcie wybra\u0144ca",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 333
+    },
+    {
+      "id": 334,
+      "movie_title": "Jackie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 334
+    },
+    {
+      "id": 335,
+      "movie_title": "Sezon na misia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 335
+    },
+    {
+      "id": 336,
+      "movie_title": "Pan i w\u0142adca: Na kra\u0144cu \u015bwiata",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 336
+    },
+    {
+      "id": 337,
+      "movie_title": "R\u0119ka Boga",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 337
+    },
+    {
+      "id": 338,
+      "movie_title": "Dziewi\u0105te wrota",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 338
+    },
+    {
+      "id": 339,
+      "movie_title": "W\u0142adcy umys\u0142\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 339
+    },
+    {
+      "id": 340,
+      "movie_title": "Mroczne cienie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 340
+    },
+    {
+      "id": 341,
+      "movie_title": "Lobster",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 341
+    },
+    {
+      "id": 342,
+      "movie_title": "Tajemnice Los Angeles",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 342
+    },
+    {
+      "id": 343,
+      "movie_title": "Walka z lodem",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 343
+    },
+    {
+      "id": 344,
+      "movie_title": "Zielona mila",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 344
+    },
+    {
+      "id": 345,
+      "movie_title": "Gayniggers from Outer Space",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 345
+    },
+    {
+      "id": 346,
+      "movie_title": "Pi\u0105ty wymiar",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 346
+    },
+    {
+      "id": 347,
+      "movie_title": "Promised Land",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 347
+    },
+    {
+      "id": 348,
+      "movie_title": "T\u0142umaczka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 348
+    },
+    {
+      "id": 349,
+      "movie_title": "Hancock",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 349
+    },
+    {
+      "id": 350,
+      "movie_title": "Cho\u0107 goni nas czas",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 350
+    },
+    {
+      "id": 351,
+      "movie_title": "Przekr\u0119t",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 351
+    },
+    {
+      "id": 352,
+      "movie_title": "Kryj\u00f3wka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 352
+    },
+    {
+      "id": 353,
+      "movie_title": "Creed: Narodziny legendy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 353
+    },
+    {
+      "id": 354,
+      "movie_title": "Droga powrotna",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 354
+    },
+    {
+      "id": 355,
+      "movie_title": "Niepokonani",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 355
+    },
+    {
+      "id": 356,
+      "movie_title": "Kodachrome",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 356
+    },
+    {
+      "id": 357,
+      "movie_title": "Manchester by the Sea",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 357
+    },
+    {
+      "id": 358,
+      "movie_title": "Cz\u0142owiek na kraw\u0119dzi",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 358
+    },
+    {
+      "id": 359,
+      "movie_title": "Przewodnik po \u017cyciu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 359
+    },
+    {
+      "id": 360,
+      "movie_title": "The International",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 360
+    },
+    {
+      "id": 361,
+      "movie_title": "W pogoni za zemst\u0105",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 361
+    },
+    {
+      "id": 362,
+      "movie_title": "Batman",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 362
+    },
+    {
+      "id": 363,
+      "movie_title": "Lion. Droga do domu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 363
+    },
+    {
+      "id": 364,
+      "movie_title": "Czerwony smok",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 364
+    },
+    {
+      "id": 365,
+      "movie_title": "Kill Bill",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 365
+    },
+    {
+      "id": 366,
+      "movie_title": "Ma\u0142a Miss",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 366
+    },
+    {
+      "id": 367,
+      "movie_title": "Boyhood",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 367
+    },
+    {
+      "id": 368,
+      "movie_title": "Dunkierka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 368
+    },
+    {
+      "id": 369,
+      "movie_title": "Inwazja",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 369
+    },
+    {
+      "id": 370,
+      "movie_title": "Cwaniaki z Hollywood",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 370
+    },
+    {
+      "id": 371,
+      "movie_title": "Pozory prawdy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 371
+    },
+    {
+      "id": 372,
+      "movie_title": "The Meg",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 372
+    },
+    {
+      "id": 373,
+      "movie_title": "Nie wierzcie bli\u017aniaczkom",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 373
+    },
+    {
+      "id": 374,
+      "movie_title": "\u0141otr 1. Gwiezdne wojny - historie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 374
+    },
+    {
+      "id": 375,
+      "movie_title": "Winni",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 375
+    },
+    {
+      "id": 376,
+      "movie_title": "Gwiezdne wojny: Przebudzenie Mocy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 376
+    },
+    {
+      "id": 377,
+      "movie_title": "Mali agenci",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 377
+    },
+    {
+      "id": 378,
+      "movie_title": "Mali Agenci 3D: Tr\u00f3jwymiarowy odjazd",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 378
+    },
+    {
+      "id": 379,
+      "movie_title": "Scooby-Doo! Strachy i pata\u0142achy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 379
+    },
+    {
+      "id": 380,
+      "movie_title": "Horton s\u0142yszy Ktosia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 380
+    },
+    {
+      "id": 381,
+      "movie_title": "Garfield",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 381
+    },
+    {
+      "id": 382,
+      "movie_title": "Kurczak Ma\u0142y",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 382
+    },
+    {
+      "id": 383,
+      "movie_title": "Mi\u015b Yogi",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 383
+    },
+    {
+      "id": 384,
+      "movie_title": "Garfield 2",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 384
+    },
+    {
+      "id": 385,
+      "movie_title": "Mitchellowie kontra maszyny",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 385
+    },
+    {
+      "id": 386,
+      "movie_title": "Sztorm",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 386
+    },
+    {
+      "id": 387,
+      "movie_title": "Nowy pocz\u0105tek",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 387
+    },
+    {
+      "id": 388,
+      "movie_title": "Trzy billboardy za Ebbing, Missouri",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 388
+    },
+    {
+      "id": 389,
+      "movie_title": "Ojciec",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 389
+    },
+    {
+      "id": 390,
+      "movie_title": "Dw\u00f3ch papie\u017cy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 390
+    },
+    {
+      "id": 391,
+      "movie_title": "Naznaczony",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 391
+    },
+    {
+      "id": 392,
+      "movie_title": "Kowboj Bebop: Pukaj\u0105c do nieba bram",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 392
+    },
+    {
+      "id": 393,
+      "movie_title": "B\u00f3g nie umar\u0142",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 393
+    },
+    {
+      "id": 394,
+      "movie_title": "Prawdziwe m\u0119stwo",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 394
+    },
+    {
+      "id": 395,
+      "movie_title": "The End of Evangelion",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 395
+    },
+    {
+      "id": 396,
+      "movie_title": "Hotel Transylwania",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 396
+    },
+    {
+      "id": 397,
+      "movie_title": "ParaNorman",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 397
+    },
+    {
+      "id": 398,
+      "movie_title": "Klopsiki kontratakuj\u0105",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 398
+    },
+    {
+      "id": 399,
+      "movie_title": "Oczy szeroko zamkni\u0119te",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 399
+    },
+    {
+      "id": 400,
+      "movie_title": "Zgon na pogrzebie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 400
+    },
+    {
+      "id": 401,
+      "movie_title": "Fatamorgana",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 401
+    },
+    {
+      "id": 402,
+      "movie_title": "Wakacje Miko\u0142ajka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 402
+    },
+    {
+      "id": 403,
+      "movie_title": "Miko\u0142ajek",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 403
+    },
+    {
+      "id": 404,
+      "movie_title": "Klopsiki i inne zjawiska pogodowe",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 404
+    },
+    {
+      "id": 405,
+      "movie_title": "Paranormal Activity",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 405
+    },
+    {
+      "id": 406,
+      "movie_title": "Du\u017ce dzieci",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 406
+    },
+    {
+      "id": 407,
+      "movie_title": "Jeszcze wi\u0119ksze dzieci",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 407
+    },
+    {
+      "id": 408,
+      "movie_title": "Percy Jackson: Morze potwor\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 408
+    },
+    {
+      "id": 409,
+      "movie_title": "Atramentowe serce",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 409
+    },
+    {
+      "id": 410,
+      "movie_title": "Wolverine",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 410
+    },
+    {
+      "id": 411,
+      "movie_title": "Pogromcy duch\u00f3w II",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 411
+    },
+    {
+      "id": 412,
+      "movie_title": "Percy Jackson i Bogowie Olimpijscy: Z\u0142odziej Pioruna",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 412
+    },
+    {
+      "id": 413,
+      "movie_title": "Podr\u00f3\u017c do wn\u0119trza Ziemi",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 413
+    },
+    {
+      "id": 414,
+      "movie_title": "Krudowie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 414
+    },
+    {
+      "id": 415,
+      "movie_title": "Alvin i wiewi\u00f3rki",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 415
+    },
+    {
+      "id": 416,
+      "movie_title": "Wpuszczony w kana\u0142",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 416
+    },
+    {
+      "id": 417,
+      "movie_title": "John Carter",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 417
+    },
+    {
+      "id": 418,
+      "movie_title": "Gnomeo i Julia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 418
+    },
+    {
+      "id": 419,
+      "movie_title": "Pojutrze",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 419
+    },
+    {
+      "id": 420,
+      "movie_title": "Matrix Rewolucje",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 420
+    },
+    {
+      "id": 421,
+      "movie_title": "Faceci w czerni II",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 421
+    },
+    {
+      "id": 422,
+      "movie_title": "Kevin sam w Nowym Jorku",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 422
+    },
+    {
+      "id": 423,
+      "movie_title": "Stuart Malutki",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 423
+    },
+    {
+      "id": 424,
+      "movie_title": "Mr\u00f3wka Z",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 424
+    },
+    {
+      "id": 425,
+      "movie_title": "Cube",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 425
+    },
+    {
+      "id": 426,
+      "movie_title": "Wi\u0119zie\u0144 labiryntu: Pr\u00f3by ognia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 426
+    },
+    {
+      "id": 427,
+      "movie_title": "Epoka lodowcowa: Mocne uderzenie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 427
+    },
+    {
+      "id": 428,
+      "movie_title": "Epoka lodowcowa 4: W\u0119dr\u00f3wka kontynent\u00f3w 3D",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 428
+    },
+    {
+      "id": 429,
+      "movie_title": "Mumia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 429
+    },
+    {
+      "id": 430,
+      "movie_title": "Lot",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 430
+    },
+    {
+      "id": 431,
+      "movie_title": "Wi\u0119zie\u0144 labiryntu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 431
+    },
+    {
+      "id": 432,
+      "movie_title": "Kryptonim U.N.C.L.E.",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 432
+    },
+    {
+      "id": 433,
+      "movie_title": "Niepami\u0119\u0107",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 433
+    },
+    {
+      "id": 434,
+      "movie_title": "Ucze\u0144 czarnoksi\u0119\u017cnika",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 434
+    },
+    {
+      "id": 435,
+      "movie_title": "Jak ukra\u015b\u0107 Ksi\u0119\u017cyc",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 435
+    },
+    {
+      "id": 436,
+      "movie_title": "Ice Age: Dawn of the Dinosaurs",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 436
+    },
+    {
+      "id": 437,
+      "movie_title": "Noc w muzeum",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 437
+    },
+    {
+      "id": 438,
+      "movie_title": "Wakacje Jasia Fasoli",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 438
+    },
+    {
+      "id": 439,
+      "movie_title": "Millerowie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 439
+    },
+    {
+      "id": 440,
+      "movie_title": "K\u0142opoty z \u017co\u0142\u0119dziami",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 440
+    },
+    {
+      "id": 441,
+      "movie_title": "Epoka lodowcowa II: Odwil\u017c",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 441
+    },
+    {
+      "id": 442,
+      "movie_title": "Gdzie jest Nemo",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 442
+    },
+    {
+      "id": 443,
+      "movie_title": "Lilo i Stich",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 443
+    },
+    {
+      "id": 444,
+      "movie_title": "Pogromcy duch\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 444
+    },
+    {
+      "id": 445,
+      "movie_title": "Obcy 3",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 445
+    },
+    {
+      "id": 446,
+      "movie_title": "Matrix Reaktywacja",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 446
+    },
+    {
+      "id": 447,
+      "movie_title": "Kr\u00f3l Lew II: Czas Simby",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 447
+    },
+    {
+      "id": 448,
+      "movie_title": "Faceci w czerni",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 448
+    },
+    {
+      "id": 449,
+      "movie_title": "Epidemia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 449
+    },
+    {
+      "id": 450,
+      "movie_title": "Dzie\u0144 \u015bwistaka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 450
+    },
+    {
+      "id": 451,
+      "movie_title": "Przygody Tintina",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 451
+    },
+    {
+      "id": 452,
+      "movie_title": "Mission: Impossible - Rogue Nation",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 452
+    },
+    {
+      "id": 453,
+      "movie_title": "Mission: Impossible 2",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 453
+    },
+    {
+      "id": 454,
+      "movie_title": "Projekt: Monster",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 454
+    },
+    {
+      "id": 455,
+      "movie_title": "Mission: Impossible - Fallout",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 455
+    },
+    {
+      "id": 456,
+      "movie_title": "Mission: Impossible 4 - Protok\u00f3\u0142 duch\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 456
+    },
+    {
+      "id": 457,
+      "movie_title": "Scooby Doo: Na wyspie Zombie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 457
+    },
+    {
+      "id": 458,
+      "movie_title": "Uciekaj!",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 458
+    },
+    {
+      "id": 459,
+      "movie_title": "Megamocny",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 459
+    },
+    {
+      "id": 460,
+      "movie_title": "Spider-Man 3",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 460
+    },
+    {
+      "id": 461,
+      "movie_title": "The Mighty Thor",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 461
+    },
+    {
+      "id": 462,
+      "movie_title": "Kapitan Ameryka: Pierwsze starcie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 462
+    },
+    {
+      "id": 463,
+      "movie_title": "Fantastyczna Czw\u00f3rka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 463
+    },
+    {
+      "id": 464,
+      "movie_title": "Paradoks Cloverfield",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 464
+    },
+    {
+      "id": 465,
+      "movie_title": "Eagle Eye",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 465
+    },
+    {
+      "id": 466,
+      "movie_title": "Upiorne opowie\u015bci po zmroku",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 466
+    },
+    {
+      "id": 467,
+      "movie_title": "Opowie\u015bci z Narnii: Podr\u00f3\u017c W\u0119drowca do \u015awitu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 467
+    },
+    {
+      "id": 468,
+      "movie_title": "Walka: \u017bycie i zaginiona tw\u00f3rczo\u015b\u0107 Stanis\u0142awa Szukalskiego",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 468
+    },
+    {
+      "id": 469,
+      "movie_title": "Ja\u015b Fasola: Nadci\u0105ga totalny kataklizm",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 469
+    },
+    {
+      "id": 470,
+      "movie_title": "X-Men",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 470
+    },
+    {
+      "id": 471,
+      "movie_title": "Hulk",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 471
+    },
+    {
+      "id": 472,
+      "movie_title": "Fantastyczna 4",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 472
+    },
+    {
+      "id": 473,
+      "movie_title": "Fantastyczna Czw\u00f3rka: Narodziny Srebrnego Surfera",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 473
+    },
+    {
+      "id": 474,
+      "movie_title": "Ant-Man",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 474
+    },
+    {
+      "id": 475,
+      "movie_title": "Ant-Man i Osa",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 475
+    },
+    {
+      "id": 476,
+      "movie_title": "Kapitan Marvel",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 476
+    },
+    {
+      "id": 477,
+      "movie_title": "Ksi\u0119ga ocalenia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 477
+    },
+    {
+      "id": 478,
+      "movie_title": "Doktor Strange",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 478
+    },
+    {
+      "id": 479,
+      "movie_title": "Moon",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 479
+    },
+    {
+      "id": 480,
+      "movie_title": "Scooby - Doo! Pierwsze spotkanie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 480
+    },
+    {
+      "id": 481,
+      "movie_title": "Most do Terabithii",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 481
+    },
+    {
+      "id": 482,
+      "movie_title": "Wej\u015bcie smoka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 482
+    },
+    {
+      "id": 483,
+      "movie_title": "Gliniarz z Beverly Hills II",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 483
+    },
+    {
+      "id": 484,
+      "movie_title": "Gliniarz z Beverly Hills",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 484
+    },
+    {
+      "id": 485,
+      "movie_title": "American Psycho",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 485
+    },
+    {
+      "id": 486,
+      "movie_title": "Firma",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 486
+    },
+    {
+      "id": 487,
+      "movie_title": "Rejs",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 487
+    },
+    {
+      "id": 488,
+      "movie_title": "101 Dalmaty\u0144czyk\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 488
+    },
+    {
+      "id": 489,
+      "movie_title": "Dawno temu w trawie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 489
+    },
+    {
+      "id": 490,
+      "movie_title": "Ratatuj",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 490
+    },
+    {
+      "id": 491,
+      "movie_title": "Merida Waleczna",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 491
+    },
+    {
+      "id": 492,
+      "movie_title": "Piksele",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 492
+    },
+    {
+      "id": 493,
+      "movie_title": "Pingwiny z Madagaskaru: Misja \u015awi\u0105teczna",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 493
+    },
+    {
+      "id": 494,
+      "movie_title": "12 prac Asteriksa",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 494
+    },
+    {
+      "id": 495,
+      "movie_title": "Przygody Kubusia Puchatka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 495
+    },
+    {
+      "id": 496,
+      "movie_title": "Ralph Demolka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 496
+    },
+    {
+      "id": 497,
+      "movie_title": "Toy Story 3",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 497
+    },
+    {
+      "id": 498,
+      "movie_title": "Auta",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 498
+    },
+    {
+      "id": 499,
+      "movie_title": "Auta 2",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 499
+    },
+    {
+      "id": 500,
+      "movie_title": "Toy Story II",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 500
+    },
+    {
+      "id": 501,
+      "movie_title": "Toy Story",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 501
+    },
+    {
+      "id": 502,
+      "movie_title": "Scooby-Doo i duch czarownicy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 502
+    },
+    {
+      "id": 503,
+      "movie_title": "Scooby-Doo na tropie Mumii",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 503
+    },
+    {
+      "id": 504,
+      "movie_title": "Scooby-Doo i WWE: Potworny wy\u015bcig",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 504
+    },
+    {
+      "id": 505,
+      "movie_title": "Scooby-Doo! Abrakadabra-Doo",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 505
+    },
+    {
+      "id": 506,
+      "movie_title": "Scooby-Doo i \u015bnie\u017cny stw\u00f3r",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 506
+    },
+    {
+      "id": 507,
+      "movie_title": "Scooby-Doo i miecz samuraja",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 507
+    },
+    {
+      "id": 508,
+      "movie_title": "Scooby-Doo i Kr\u00f3l Goblin\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 508
+    },
+    {
+      "id": 509,
+      "movie_title": "Scooby Doo i meksyka\u0144ski potw\u00f3r",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 509
+    },
+    {
+      "id": 510,
+      "movie_title": "Scooby Doo i Legenda Wampira",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 510
+    },
+    {
+      "id": 511,
+      "movie_title": "Scooby Doo i naje\u017ad\u017acy z kosmosu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 511
+    },
+    {
+      "id": 512,
+      "movie_title": "Scooby-Doo i potw\u00f3r z Loch Ness",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 512
+    },
+    {
+      "id": 513,
+      "movie_title": "Scooby Doo i Cyber-Po\u015bcig",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 513
+    },
+    {
+      "id": 514,
+      "movie_title": "Aloha, Scooby-Doo!",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 514
+    },
+    {
+      "id": 515,
+      "movie_title": "Scooby-Doo spotyka braci Boo",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 515
+    },
+    {
+      "id": 516,
+      "movie_title": "Scooby-Doo 2: Potwory na gigancie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 516
+    },
+    {
+      "id": 517,
+      "movie_title": "Fineasz i Ferb: Podr\u00f3\u017c w drugim wymiarze",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 517
+    },
+    {
+      "id": 518,
+      "movie_title": "Zd\u0105\u017cy\u0107 przed p\u00f3\u0142noc\u0105",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 518
+    },
+    {
+      "id": 519,
+      "movie_title": "Gwiezdny py\u0142",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 519
+    },
+    {
+      "id": 520,
+      "movie_title": "Super 8",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 520
+    },
+    {
+      "id": 521,
+      "movie_title": "Siedmiu wspania\u0142ych",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 521
+    },
+    {
+      "id": 522,
+      "movie_title": "R.I.P.D. Agenci z za\u015bwiat\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 522
+    },
+    {
+      "id": 523,
+      "movie_title": "Niebo o p\u00f3\u0142nocy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 523
+    },
+    {
+      "id": 524,
+      "movie_title": "Ad Astra",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 524
+    },
+    {
+      "id": 525,
+      "movie_title": "Mroczna wie\u017ca",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 525
+    },
+    {
+      "id": 526,
+      "movie_title": "Park jurajski 3",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 526
+    },
+    {
+      "id": 527,
+      "movie_title": "Jurassic World: Upad\u0142e kr\u00f3lestwo",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 527
+    },
+    {
+      "id": 528,
+      "movie_title": "Zaginiony \u015awiat: Jurassic Park",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 528
+    },
+    {
+      "id": 529,
+      "movie_title": "Indiana Jones i Kr\u00f3lestwo Kryszta\u0142owej Czaszki",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 529
+    },
+    {
+      "id": 530,
+      "movie_title": "Player One",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 530
+    },
+    {
+      "id": 531,
+      "movie_title": "E.T.",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 531
+    },
+    {
+      "id": 532,
+      "movie_title": "Bliskie spotkania trzeciego stopnia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 532
+    },
+    {
+      "id": 533,
+      "movie_title": "Transformers: Wiek zag\u0142ady",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 533
+    },
+    {
+      "id": 534,
+      "movie_title": "LEGO\u00ae PRZYGODA",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 534
+    },
+    {
+      "id": 535,
+      "movie_title": "Mission: Impossible",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 535
+    },
+    {
+      "id": 536,
+      "movie_title": "M:i:III",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 536
+    },
+    {
+      "id": 537,
+      "movie_title": "Spider-Man",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 537
+    },
+    {
+      "id": 538,
+      "movie_title": "Nie otwieraj oczu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 538
+    },
+    {
+      "id": 539,
+      "movie_title": "\u015alady zbrodni",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 539
+    },
+    {
+      "id": 540,
+      "movie_title": "Midsommar. W bia\u0142y dzie\u0144",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 540
+    },
+    {
+      "id": 541,
+      "movie_title": "Cloverfield Lane 10",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 541
+    },
+    {
+      "id": 542,
+      "movie_title": "Witamy na Hawajach",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 542
+    },
+    {
+      "id": 543,
+      "movie_title": "Dorwa\u0107 Smarta",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 543
+    },
+    {
+      "id": 544,
+      "movie_title": "Zdarzenie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 544
+    },
+    {
+      "id": 545,
+      "movie_title": "Hilda i w\u0142adca g\u00f3r",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 545
+    },
+    {
+      "id": 546,
+      "movie_title": "Stan gry",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 546
+    },
+    {
+      "id": 547,
+      "movie_title": "Tenet",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 547
+    },
+    {
+      "id": 548,
+      "movie_title": "Ballada o Busterze Scruggsie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 548
+    },
+    {
+      "id": 549,
+      "movie_title": "Kapitan Ameryka: Wojna bohater\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 549
+    },
+    {
+      "id": 550,
+      "movie_title": "Romeo i Julia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 550
+    },
+    {
+      "id": 551,
+      "movie_title": "Niesamowity Hulk",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 551
+    },
+    {
+      "id": 552,
+      "movie_title": "Thor: Mroczny \u015bwiat",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 552
+    },
+    {
+      "id": 553,
+      "movie_title": "C'mon C'mon",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 553
+    },
+    {
+      "id": 554,
+      "movie_title": "Kapitan Ameryka: Zimowy \u017bo\u0142nierz",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 554
+    },
+    {
+      "id": 555,
+      "movie_title": "Spider-Man 2",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 555
+    },
+    {
+      "id": 556,
+      "movie_title": "Scott Pilgrim kontra \u015bwiat",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 556
+    },
+    {
+      "id": 557,
+      "movie_title": "Rob Roy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 557
+    },
+    {
+      "id": 558,
+      "movie_title": "Uprowadzona 2",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 558
+    },
+    {
+      "id": 559,
+      "movie_title": "Uprowadzona 3",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 559
+    },
+    {
+      "id": 560,
+      "movie_title": "Krocz\u0105c w\u015br\u00f3d cieni",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 560
+    },
+    {
+      "id": 561,
+      "movie_title": "Osierocony Brooklyn",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 561
+    },
+    {
+      "id": 562,
+      "movie_title": "Non-Stop",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 562
+    },
+    {
+      "id": 563,
+      "movie_title": "Szcz\u0119ki",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 563
+    },
+    {
+      "id": 564,
+      "movie_title": "Powr\u00f3t do przysz\u0142o\u015bci 3",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 564
+    },
+    {
+      "id": 565,
+      "movie_title": "Powr\u00f3t do przysz\u0142o\u015bci II",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 565
+    },
+    {
+      "id": 566,
+      "movie_title": "Powr\u00f3t do przysz\u0142o\u015bci",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 566
+    },
+    {
+      "id": 567,
+      "movie_title": "Tarzan",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 567
+    },
+    {
+      "id": 568,
+      "movie_title": "Nowe szaty kr\u00f3la",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 568
+    },
+    {
+      "id": 569,
+      "movie_title": "Avatar",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 569
+    },
+    {
+      "id": 570,
+      "movie_title": "Ekspres polarny",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 570
+    },
+    {
+      "id": 571,
+      "movie_title": "Avengers: Czas Ultrona",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 571
+    },
+    {
+      "id": 572,
+      "movie_title": "Prawdziwa zbrodnia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 572
+    },
+    {
+      "id": 573,
+      "movie_title": "88 minut",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 573
+    },
+    {
+      "id": 574,
+      "movie_title": "Aviator",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 574
+    },
+    {
+      "id": 575,
+      "movie_title": "Wielki Gatsby",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 575
+    },
+    {
+      "id": 576,
+      "movie_title": "Batman",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 576
+    },
+    {
+      "id": 577,
+      "movie_title": "Ludzie honoru",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 577
+    },
+    {
+      "id": 578,
+      "movie_title": "Bezsenno\u015b\u0107",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 578
+    },
+    {
+      "id": 579,
+      "movie_title": "Piraci z Karaib\u00f3w: Zemsta Salazara",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 579
+    },
+    {
+      "id": 580,
+      "movie_title": "Niesamowity Spider-Man 2",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 580
+    },
+    {
+      "id": 581,
+      "movie_title": "Baby Driver",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 581
+    },
+    {
+      "id": 582,
+      "movie_title": "Shrek 2",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 582
+    },
+    {
+      "id": 583,
+      "movie_title": "Ugotowany",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 583
+    },
+    {
+      "id": 584,
+      "movie_title": "Iniemamocni 2",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 584
+    },
+    {
+      "id": 585,
+      "movie_title": "Nasze magiczne Encanto",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 585
+    },
+    {
+      "id": 586,
+      "movie_title": "Szefowie wrogowie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 586
+    },
+    {
+      "id": 587,
+      "movie_title": "Moneyball",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 587
+    },
+    {
+      "id": 588,
+      "movie_title": "Wielkie oczy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 588
+    },
+    {
+      "id": 589,
+      "movie_title": "Ocean's Twelve: Dogrywka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 589
+    },
+    {
+      "id": 590,
+      "movie_title": "\u017bona na niby",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 590
+    },
+    {
+      "id": 591,
+      "movie_title": "Ocean's 13",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 591
+    },
+    {
+      "id": 592,
+      "movie_title": "Kamienie na szaniec",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 592
+    },
+    {
+      "id": 593,
+      "movie_title": "Shrek Forever",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 593
+    },
+    {
+      "id": 594,
+      "movie_title": "Elizjum",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 594
+    },
+    {
+      "id": 595,
+      "movie_title": "Van Helsing",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 595
+    },
+    {
+      "id": 596,
+      "movie_title": "Niesamowity Spider-Man",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 596
+    },
+    {
+      "id": 597,
+      "movie_title": "Spider-Man: Homecoming",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 597
+    },
+    {
+      "id": 598,
+      "movie_title": "Egzorcysta",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 598
+    },
+    {
+      "id": 599,
+      "movie_title": "Jurassic World",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 599
+    },
+    {
+      "id": 600,
+      "movie_title": "Shrek Trzeci",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 600
+    },
+    {
+      "id": 601,
+      "movie_title": "Na skraju jutra",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 601
+    },
+    {
+      "id": 602,
+      "movie_title": "Praktykant",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 602
+    },
+    {
+      "id": 603,
+      "movie_title": "Miasto",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 603
+    },
+    {
+      "id": 604,
+      "movie_title": "Jumanji",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 604
+    },
+    {
+      "id": 605,
+      "movie_title": "Jestem na tak",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 605
+    },
+    {
+      "id": 606,
+      "movie_title": "Maska",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 606
+    },
+    {
+      "id": 607,
+      "movie_title": "Turysta",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 607
+    },
+    {
+      "id": 608,
+      "movie_title": "Jak pies z kotem",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 608
+    },
+    {
+      "id": 609,
+      "movie_title": "Waleczne Serce - Braveheart",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 609
+    },
+    {
+      "id": 610,
+      "movie_title": "A\u017c poleje si\u0119 krew",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 610
+    },
+    {
+      "id": 611,
+      "movie_title": "Poradnik pozytywnego my\u015blenia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 611
+    },
+    {
+      "id": 612,
+      "movie_title": "Bez wahania",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 612
+    },
+    {
+      "id": 613,
+      "movie_title": "Z\u0142e dni",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 613
+    },
+    {
+      "id": 614,
+      "movie_title": "Kac Vegas",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 614
+    },
+    {
+      "id": 615,
+      "movie_title": "Iniemamocni",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 615
+    },
+    {
+      "id": 616,
+      "movie_title": "W\u0142adca Pary\u017ca",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 616
+    },
+    {
+      "id": 617,
+      "movie_title": "Czerwona nota",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 617
+    },
+    {
+      "id": 618,
+      "movie_title": "Obecno\u015b\u0107",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 618
+    },
+    {
+      "id": 619,
+      "movie_title": "Sinister",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 619
+    },
+    {
+      "id": 620,
+      "movie_title": "Wysyp \u017cywych trup\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 620
+    },
+    {
+      "id": 621,
+      "movie_title": "Kung Fu Panda",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 621
+    },
+    {
+      "id": 622,
+      "movie_title": "Nowiny ze \u015bwiata",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 622
+    },
+    {
+      "id": 623,
+      "movie_title": "Niebezpieczny umys\u0142",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 623
+    },
+    {
+      "id": 624,
+      "movie_title": "Nie patrz w g\u00f3r\u0119",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 624
+    },
+    {
+      "id": 625,
+      "movie_title": "Sekretne \u017cycie Waltera Mitty",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 625
+    },
+    {
+      "id": 626,
+      "movie_title": "Lighthouse",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 626
+    },
+    {
+      "id": 627,
+      "movie_title": "Ptaki Nocy (i fantastyczna emancypacja pewnej Harley Quinn)",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 627
+    },
+    {
+      "id": 628,
+      "movie_title": "Ma\u0142e rzeczy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 628
+    },
+    {
+      "id": 629,
+      "movie_title": "MASH",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 629
+    },
+    {
+      "id": 630,
+      "movie_title": "Obecno\u015b\u0107 2",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 630
+    },
+    {
+      "id": 631,
+      "movie_title": "Chappie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 631
+    },
+    {
+      "id": 632,
+      "movie_title": "Shang-Chi i legenda dziesi\u0119ciu pier\u015bcieni",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 632
+    },
+    {
+      "id": 633,
+      "movie_title": "Richard Jewell",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 633
+    },
+    {
+      "id": 634,
+      "movie_title": "Spider-Man: Bez drogi do domu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 634
+    },
+    {
+      "id": 635,
+      "movie_title": "Kung Fu Panda 2",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 635
+    },
+    {
+      "id": 636,
+      "movie_title": "Psie pazury",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 636
+    },
+    {
+      "id": 637,
+      "movie_title": "Bodyguard i \u017cona zawodowca",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 637
+    },
+    {
+      "id": 638,
+      "movie_title": "Godzilla vs. Kong",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 638
+    },
+    {
+      "id": 639,
+      "movie_title": "Grand Budapest Hotel",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 639
+    },
+    {
+      "id": 640,
+      "movie_title": "Elegia dla bidok\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 640
+    },
+    {
+      "id": 641,
+      "movie_title": "Zab\u00f3jczy Jacques",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 641
+    },
+    {
+      "id": 642,
+      "movie_title": "Hazardzi\u015bci",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 642
+    },
+    {
+      "id": 643,
+      "movie_title": "Agenci",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 643
+    },
+    {
+      "id": 644,
+      "movie_title": "Stra\u017c s\u0105siedzka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 644
+    },
+    {
+      "id": 645,
+      "movie_title": "Stra\u017cnicy marze\u0144",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 645
+    },
+    {
+      "id": 646,
+      "movie_title": "W pogoni za szcz\u0119\u015bciem",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 646
+    },
+    {
+      "id": 647,
+      "movie_title": "Red 2",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 647
+    },
+    {
+      "id": 648,
+      "movie_title": "Red",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 648
+    },
+    {
+      "id": 649,
+      "movie_title": "Venom 2: Carnage",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 649
+    },
+    {
+      "id": 650,
+      "movie_title": "Venom",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 650
+    },
+    {
+      "id": 651,
+      "movie_title": "Czekaj\u0105c na Joe",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 651
+    },
+    {
+      "id": 652,
+      "movie_title": "Raport Pelikana",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 652
+    },
+    {
+      "id": 653,
+      "movie_title": "Jak straci\u0107 ch\u0142opaka w 10 dni",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 653
+    },
+    {
+      "id": 654,
+      "movie_title": "W jak morderstwo",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 654
+    },
+    {
+      "id": 655,
+      "movie_title": "Escape Room: Najlepsi z najlepszych",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 655
+    },
+    {
+      "id": 656,
+      "movie_title": "Ucieczka z Alcatraz",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 656
+    },
+    {
+      "id": 657,
+      "movie_title": "Madagaskar 2",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 657
+    },
+    {
+      "id": 658,
+      "movie_title": "Ksi\u0119gowy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 658
+    },
+    {
+      "id": 659,
+      "movie_title": "\u0179le si\u0119 dzieje w El Royale",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 659
+    },
+    {
+      "id": 660,
+      "movie_title": "Wielki luz",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 660
+    },
+    {
+      "id": 661,
+      "movie_title": "Big Lebowski",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 661
+    },
+    {
+      "id": 662,
+      "movie_title": "W sieci z\u0142a",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 662
+    },
+    {
+      "id": 663,
+      "movie_title": "W sieci paj\u0105ka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 663
+    },
+    {
+      "id": 664,
+      "movie_title": "W sieci k\u0142amstw",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 664
+    },
+    {
+      "id": 665,
+      "movie_title": "Laputa \u2013 podniebny zamek",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 665
+    },
+    {
+      "id": 666,
+      "movie_title": "Ex Machina",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 666
+    },
+    {
+      "id": 667,
+      "movie_title": "Diuna",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 667
+    },
+    {
+      "id": 668,
+      "movie_title": "Straszny dom",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 668
+    },
+    {
+      "id": 669,
+      "movie_title": "Gangster Squad. Pogromcy mafii",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 669
+    },
+    {
+      "id": 670,
+      "movie_title": "Deja Vu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 670
+    },
+    {
+      "id": 671,
+      "movie_title": "Once",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 671
+    },
+    {
+      "id": 672,
+      "movie_title": "Obecno\u015b\u0107 3: Na rozkaz diab\u0142a",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 672
+    },
+    {
+      "id": 673,
+      "movie_title": "Stra\u017cnicy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 673
+    },
+    {
+      "id": 674,
+      "movie_title": "Liga niezwyk\u0142ych d\u017centelmen\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 674
+    },
+    {
+      "id": 675,
+      "movie_title": "Trauma",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 675
+    },
+    {
+      "id": 676,
+      "movie_title": "Dzi\u015b 13, jutro 30",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 676
+    },
+    {
+      "id": 677,
+      "movie_title": "6 Underground",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 677
+    },
+    {
+      "id": 678,
+      "movie_title": "Sok\u00f3\u0142 z mas\u0142em orzechowym",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 678
+    },
+    {
+      "id": 679,
+      "movie_title": "Uciekaj\u0105ca panna m\u0142oda",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 679
+    },
+    {
+      "id": 680,
+      "movie_title": "Osiem g\u0142\u00f3w w torbie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 680
+    },
+    {
+      "id": 681,
+      "movie_title": "Spider-Man: Daleko od domu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 681
+    },
+    {
+      "id": 682,
+      "movie_title": "Morderstwo w Orient Expressie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 682
+    },
+    {
+      "id": 683,
+      "movie_title": "Babadook",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 683
+    },
+    {
+      "id": 684,
+      "movie_title": "Hamilton",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 684
+    },
+    {
+      "id": 685,
+      "movie_title": "Koralina i tajemnicze drzwi",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 685
+    },
+    {
+      "id": 686,
+      "movie_title": "Kraina jutra",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 686
+    },
+    {
+      "id": 687,
+      "movie_title": "Sierpie\u0144 w hrabstwie Osage",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 687
+    },
+    {
+      "id": 688,
+      "movie_title": "Valerian i Miasto Tysi\u0105ca Planet",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 688
+    },
+    {
+      "id": 689,
+      "movie_title": "Klucz do koszmaru",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 689
+    },
+    {
+      "id": 690,
+      "movie_title": "Big Short",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 690
+    },
+    {
+      "id": 691,
+      "movie_title": "Constantine",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 691
+    },
+    {
+      "id": 692,
+      "movie_title": "Planeta skarb\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 692
+    },
+    {
+      "id": 693,
+      "movie_title": "Free Guy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 693
+    },
+    {
+      "id": 694,
+      "movie_title": "Czarna Pantera",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 694
+    },
+    {
+      "id": 695,
+      "movie_title": "Dom z koszmar\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 695
+    },
+    {
+      "id": 696,
+      "movie_title": "Listy do M.",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 696
+    },
+    {
+      "id": 697,
+      "movie_title": "Legion samob\u00f3jc\u00f3w: The Suicide Squad",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 697
+    },
+    {
+      "id": 698,
+      "movie_title": "Kod Merkury",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 698
+    },
+    {
+      "id": 699,
+      "movie_title": "Kod da Vinci",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 699
+    },
+    {
+      "id": 700,
+      "movie_title": "Gry wojenne",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 700
+    },
+    {
+      "id": 701,
+      "movie_title": "Bodyguard Zawodowiec",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 701
+    },
+    {
+      "id": 702,
+      "movie_title": "Sicario",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 702
+    },
+    {
+      "id": 703,
+      "movie_title": "Parszywa dwunastka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 703
+    },
+    {
+      "id": 704,
+      "movie_title": "Kung Fu Panda 3",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 704
+    },
+    {
+      "id": 705,
+      "movie_title": "K\u0142amstwo doskona\u0142e",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 705
+    },
+    {
+      "id": 706,
+      "movie_title": "Gdzie jeste\u015b, Amando",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 706
+    },
+    {
+      "id": 707,
+      "movie_title": "Nikt",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 707
+    },
+    {
+      "id": 708,
+      "movie_title": "Szklana pu\u0142apka 3",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 708
+    },
+    {
+      "id": 709,
+      "movie_title": "Wy\u015bcig z czasem",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 709
+    },
+    {
+      "id": 710,
+      "movie_title": "Przed egzekucj\u0105",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 710
+    },
+    {
+      "id": 711,
+      "movie_title": "Wezwanie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 711
+    },
+    {
+      "id": 712,
+      "movie_title": "Jurek",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 712
+    },
+    {
+      "id": 713,
+      "movie_title": "Naci\u0105gacze",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 713
+    },
+    {
+      "id": 714,
+      "movie_title": "Przez kontynent",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 714
+    },
+    {
+      "id": 715,
+      "movie_title": "Szcz\u0119\u015bliwy dzie\u0144",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 715
+    },
+    {
+      "id": 716,
+      "movie_title": "Truposze nie umieraj\u0105",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 716
+    },
+    {
+      "id": 717,
+      "movie_title": "Pasa\u017cerowie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 717
+    },
+    {
+      "id": 718,
+      "movie_title": "Pasa\u017cer nr 4",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 718
+    },
+    {
+      "id": 719,
+      "movie_title": "Pasa\u017cer",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 719
+    },
+    {
+      "id": 720,
+      "movie_title": "Dla niej wszystko",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 720
+    },
+    {
+      "id": 721,
+      "movie_title": "Podejrzany",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 721
+    },
+    {
+      "id": 722,
+      "movie_title": "Hot Fuzz - Ostre psy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 722
+    },
+    {
+      "id": 723,
+      "movie_title": "The Hand of God",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 723
+    },
+    {
+      "id": 724,
+      "movie_title": "Szklana pu\u0142apka 2",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 724
+    },
+    {
+      "id": 725,
+      "movie_title": "The Oxford Murders",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 725
+    },
+    {
+      "id": 726,
+      "movie_title": "D\u0142ugi poca\u0142unek na dobranoc",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 726
+    },
+    {
+      "id": 727,
+      "movie_title": "Dzie\u0144 na tak",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 727
+    },
+    {
+      "id": 728,
+      "movie_title": "Godzilla",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 728
+    },
+    {
+      "id": 729,
+      "movie_title": "Kong: Wyspa Czaszki",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 729
+    },
+    {
+      "id": 730,
+      "movie_title": "Kto zabi\u0142 ciotk\u0119 Cookie?",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 730
+    },
+    {
+      "id": 731,
+      "movie_title": "The Highwaymen",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 731
+    },
+    {
+      "id": 732,
+      "movie_title": "Cudowny dzie\u0144",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 732
+    },
+    {
+      "id": 733,
+      "movie_title": "Whiplash",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 733
+    },
+    {
+      "id": 734,
+      "movie_title": "Nienawistna \u00f3semka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 734
+    },
+    {
+      "id": 735,
+      "movie_title": "Podziemny kr\u0105g",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 735
+    },
+    {
+      "id": 736,
+      "movie_title": "Spider-Man Uniwersum",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 736
+    },
+    {
+      "id": 737,
+      "movie_title": "Bo\u017ce Cia\u0142o",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 737
+    },
+    {
+      "id": 738,
+      "movie_title": "Gor\u0105czka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 738
+    },
+    {
+      "id": 739,
+      "movie_title": "By\u0142 sobie Deadpool",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 739
+    },
+    {
+      "id": 740,
+      "movie_title": "Chinatown",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 740
+    },
+    {
+      "id": 741,
+      "movie_title": "Harry Potter i Czara Ognia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 741
+    },
+    {
+      "id": 742,
+      "movie_title": "2001: Odyseja kosmiczna",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 742
+    },
+    {
+      "id": 743,
+      "movie_title": "Le Mans '66",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 743
+    },
+    {
+      "id": 744,
+      "movie_title": "Blade Runner 2049",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 744
+    },
+    {
+      "id": 745,
+      "movie_title": "Indiana Jones i \u015awi\u0105tynia Przeznaczenia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 745
+    },
+    {
+      "id": 746,
+      "movie_title": "Indiana Jones i ostatnia krucjata",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 746
+    },
+    {
+      "id": 747,
+      "movie_title": "Skazani na Shawshank",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 747
+    },
+    {
+      "id": 748,
+      "movie_title": "Avengers: Koniec gry",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 748
+    },
+    {
+      "id": 749,
+      "movie_title": "Katedra",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 749
+    },
+    {
+      "id": 750,
+      "movie_title": "B\u0119karty wojny",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 750
+    },
+    {
+      "id": 751,
+      "movie_title": "Cast Away - poza \u015bwiatem",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 751
+    },
+    {
+      "id": 752,
+      "movie_title": "Contratiempo. Niewidzialny go\u015b\u0107",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 752
+    },
+    {
+      "id": 753,
+      "movie_title": "Donnie Brasco",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 753
+    },
+    {
+      "id": 754,
+      "movie_title": "Mi\u015b",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 754
+    },
+    {
+      "id": 755,
+      "movie_title": "Terminator 2: Dzie\u0144 s\u0105du",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 755
+    },
+    {
+      "id": 756,
+      "movie_title": "Memento",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 756
+    },
+    {
+      "id": 757,
+      "movie_title": "Cudowny ch\u0142opak",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 757
+    },
+    {
+      "id": 758,
+      "movie_title": "Dwunastu gniewnych ludzi",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 758
+    },
+    {
+      "id": 759,
+      "movie_title": "Pi\u0119kny umys\u0142",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 759
+    },
+    {
+      "id": 760,
+      "movie_title": "Amadeusz",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 760
+    },
+    {
+      "id": 761,
+      "movie_title": "Gra",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 761
+    },
+    {
+      "id": 762,
+      "movie_title": "Z\u0142ap mnie, je\u015bli potrafisz",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 762
+    },
+    {
+      "id": 763,
+      "movie_title": "Shrek",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 763
+    },
+    {
+      "id": 764,
+      "movie_title": "P\u00f3\u0142 \u017cartem, p\u00f3\u0142 serio",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 764
+    },
+    {
+      "id": 765,
+      "movie_title": "Co gryzie Gilberta Grape'a",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 765
+    },
+    {
+      "id": 766,
+      "movie_title": "Indiana Jones: Poszukiwacze zaginionej Arki",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 766
+    },
+    {
+      "id": 767,
+      "movie_title": "Dziewczyna z tatua\u017cem",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 767
+    },
+    {
+      "id": 768,
+      "movie_title": "Rzeka tajemnic",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 768
+    },
+    {
+      "id": 769,
+      "movie_title": "Jutro b\u0119dziemy szcz\u0119\u015bliwi",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 769
+    },
+    {
+      "id": 770,
+      "movie_title": "Noc na Ziemi",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 770
+    },
+    {
+      "id": 771,
+      "movie_title": "Twardowsky 2.0",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 771
+    },
+    {
+      "id": 772,
+      "movie_title": "Snajper",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 772
+    },
+    {
+      "id": 773,
+      "movie_title": "Plan doskona\u0142y",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 773
+    },
+    {
+      "id": 774,
+      "movie_title": "Marsjanin",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 774
+    },
+    {
+      "id": 775,
+      "movie_title": "To nie jest kraj dla starych ludzi",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 775
+    },
+    {
+      "id": 776,
+      "movie_title": "Blues Brothers",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 776
+    },
+    {
+      "id": 777,
+      "movie_title": "Prawdziwa historia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 777
+    },
+    {
+      "id": 778,
+      "movie_title": "Stra\u017cnicy Galaktyki vol. 2",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 778
+    },
+    {
+      "id": 779,
+      "movie_title": "Szklana pu\u0142apka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 779
+    },
+    {
+      "id": 780,
+      "movie_title": "Twardowsky",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 780
+    },
+    {
+      "id": 781,
+      "movie_title": "Krwawy diament",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 781
+    },
+    {
+      "id": 782,
+      "movie_title": "Ocean's Eleven: Ryzykowna gra",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 782
+    },
+    {
+      "id": 783,
+      "movie_title": "Mechanik",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 783
+    },
+    {
+      "id": 784,
+      "movie_title": "Teoria wszystkiego",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 784
+    },
+    {
+      "id": 785,
+      "movie_title": "\u015acigany",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 785
+    },
+    {
+      "id": 786,
+      "movie_title": "Obcy - decyduj\u0105ce starcie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 786
+    },
+    {
+      "id": 787,
+      "movie_title": "Matrix",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 787
+    },
+    {
+      "id": 788,
+      "movie_title": "S\u0142aby punkt",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 788
+    },
+    {
+      "id": 789,
+      "movie_title": "David Attenborough: \u017bycie na naszej planecie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 789
+    },
+    {
+      "id": 790,
+      "movie_title": "Nietykalni",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 790
+    },
+    {
+      "id": 791,
+      "movie_title": "Vabank",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 791
+    },
+    {
+      "id": 792,
+      "movie_title": "Podejrzani",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 792
+    },
+    {
+      "id": 793,
+      "movie_title": "Wielka Sz\u00f3stka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 793
+    },
+    {
+      "id": 794,
+      "movie_title": "Jak wytresowa\u0107 smoka 2",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 794
+    },
+    {
+      "id": 795,
+      "movie_title": "Wywiad z wampirem",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 795
+    },
+    {
+      "id": 796,
+      "movie_title": "Na no\u017ce",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 796
+    },
+    {
+      "id": 797,
+      "movie_title": "Imi\u0119 r\u00f3\u017cy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 797
+    },
+    {
+      "id": 798,
+      "movie_title": "Ciekawy przypadek Benjamina Buttona",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 798
+    },
+    {
+      "id": 799,
+      "movie_title": "Thor: Ragnarok",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 799
+    },
+    {
+      "id": 800,
+      "movie_title": "W g\u0142owie si\u0119 nie mie\u015bci",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 800
+    },
+    {
+      "id": 801,
+      "movie_title": "Kafarnaum",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 801
+    },
+    {
+      "id": 802,
+      "movie_title": "Zaginiona dziewczyna",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 802
+    },
+    {
+      "id": 803,
+      "movie_title": "L\u0119k pierwotny",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 803
+    },
+    {
+      "id": 804,
+      "movie_title": "Sens \u017cycia wg Monty Pythona",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 804
+    },
+    {
+      "id": 805,
+      "movie_title": "Alien",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 805
+    },
+    {
+      "id": 806,
+      "movie_title": "Koneser",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 806
+    },
+    {
+      "id": 807,
+      "movie_title": "Najlepszy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 807
+    },
+    {
+      "id": 808,
+      "movie_title": "Cinema Paradiso",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 808
+    },
+    {
+      "id": 809,
+      "movie_title": "Adwokat diab\u0142a",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 809
+    },
+    {
+      "id": 810,
+      "movie_title": "Monty Python i \u015awi\u0119ty Graal",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 810
+    },
+    {
+      "id": 811,
+      "movie_title": "\u0141owca jeleni",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 811
+    },
+    {
+      "id": 812,
+      "movie_title": "Avengers: Wojna bez granic",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 812
+    },
+    {
+      "id": 813,
+      "movie_title": "Szeregowiec Ryan",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 813
+    },
+    {
+      "id": 814,
+      "movie_title": "Kr\u00f3l Lew",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 814
+    },
+    {
+      "id": 815,
+      "movie_title": "Pianista",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 815
+    },
+    {
+      "id": 816,
+      "movie_title": "McImperium",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 816
+    },
+    {
+      "id": 817,
+      "movie_title": "Apollo 13",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 817
+    },
+    {
+      "id": 818,
+      "movie_title": "Truman Show",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 818
+    },
+    {
+      "id": 819,
+      "movie_title": "Piraci z Karaib\u00f3w: Skrzynia umarlaka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 819
+    },
+    {
+      "id": 820,
+      "movie_title": "Charlie i fabryka czekolady",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 820
+    },
+    {
+      "id": 821,
+      "movie_title": "Incepcja",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 821
+    },
+    {
+      "id": 822,
+      "movie_title": "Siedem",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 822
+    },
+    {
+      "id": 823,
+      "movie_title": "Kiler",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 823
+    },
+    {
+      "id": 824,
+      "movie_title": "Nietykalni",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 824
+    },
+    {
+      "id": 825,
+      "movie_title": "Raport mniejszo\u015bci",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 825
+    },
+    {
+      "id": 826,
+      "movie_title": "Joker",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 826
+    },
+    {
+      "id": 827,
+      "movie_title": "Wszystko za \u017cycie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 827
+    },
+    {
+      "id": 828,
+      "movie_title": "Sz\u00f3sty zmys\u0142",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 828
+    },
+    {
+      "id": 829,
+      "movie_title": "Mroczny Rycerz",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 829
+    },
+    {
+      "id": 830,
+      "movie_title": "Rain Man",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 830
+    },
+    {
+      "id": 831,
+      "movie_title": "Django",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 831
+    },
+    {
+      "id": 832,
+      "movie_title": "WALL\u00b7E",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 832
+    },
+    {
+      "id": 833,
+      "movie_title": "Piraci z Karaib\u00f3w: Na kra\u0144cu \u015bwiata",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 833
+    },
+    {
+      "id": 834,
+      "movie_title": "\u0141owca android\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 834
+    },
+    {
+      "id": 835,
+      "movie_title": "Wojna \u015bwiat\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 835
+    },
+    {
+      "id": 836,
+      "movie_title": "Iron Man III",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 836
+    },
+    {
+      "id": 837,
+      "movie_title": "Batman - Pocz\u0105tek",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 837
+    },
+    {
+      "id": 838,
+      "movie_title": "Presti\u017c",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 838
+    },
+    {
+      "id": 839,
+      "movie_title": "Hobbit: Niezwyk\u0142a podr\u00f3\u017c",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 839
+    },
+    {
+      "id": 840,
+      "movie_title": "Hobbit 2: Samotna G\u00f3ra",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 840
+    },
+    {
+      "id": 841,
+      "movie_title": "Wyspa tajemnic",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 841
+    },
+    {
+      "id": 842,
+      "movie_title": "12 ma\u0142p",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 842
+    },
+    {
+      "id": 843,
+      "movie_title": "L\u015bnienie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 843
+    },
+    {
+      "id": 844,
+      "movie_title": "Bruce Wszechmog\u0105cy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 844
+    },
+    {
+      "id": 845,
+      "movie_title": "Epoka lodowcowa",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 845
+    },
+    {
+      "id": 846,
+      "movie_title": "Iluzja",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 846
+    },
+    {
+      "id": 847,
+      "movie_title": "Jak wytresowa\u0107 smoka",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 847
+    },
+    {
+      "id": 848,
+      "movie_title": "Skyfall",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 848
+    },
+    {
+      "id": 849,
+      "movie_title": "Zodiak",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 849
+    },
+    {
+      "id": 850,
+      "movie_title": "Grawitacja 3D",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 850
+    },
+    {
+      "id": 851,
+      "movie_title": "Wiruj\u0105cy seks",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 851
+    },
+    {
+      "id": 852,
+      "movie_title": "Opowie\u015bci z Narnii: Lew, czarownica i stara szafa",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 852
+    },
+    {
+      "id": 853,
+      "movie_title": "Kraina lodu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 853
+    },
+    {
+      "id": 854,
+      "movie_title": "Fantastyczne zwierz\u0119ta i jak je znale\u017a\u0107",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 854
+    },
+    {
+      "id": 855,
+      "movie_title": "O p\u00f3\u0142nocy w Pary\u017cu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 855
+    },
+    {
+      "id": 856,
+      "movie_title": "Straszny film",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 856
+    },
+    {
+      "id": 857,
+      "movie_title": "Buntownik z wyboru",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 857
+    },
+    {
+      "id": 858,
+      "movie_title": "W\u0142adca Pier\u015bcieni: Dru\u017cyna Pier\u015bcienia",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 858
+    },
+    {
+      "id": 859,
+      "movie_title": "Mroczny Rycerz powstaje",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 859
+    },
+    {
+      "id": 860,
+      "movie_title": "Deadpool",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 860
+    },
+    {
+      "id": 861,
+      "movie_title": "Sherlock Holmes: Gra cieni",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 861
+    },
+    {
+      "id": 862,
+      "movie_title": "Hannibal",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 862
+    },
+    {
+      "id": 863,
+      "movie_title": "Efekt motyla",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 863
+    },
+    {
+      "id": 864,
+      "movie_title": "Stowarzyszenie Umar\u0142ych Poet\u00f3w",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 864
+    },
+    {
+      "id": 865,
+      "movie_title": "Jak rozp\u0119ta\u0142em drug\u0105 wojn\u0119 \u015bwiatow\u0105",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 865
+    },
+    {
+      "id": 866,
+      "movie_title": "Zwierzogr\u00f3d",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 866
+    },
+    {
+      "id": 867,
+      "movie_title": "Czas Apokalipsy: Powr\u00f3t",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 867
+    },
+    {
+      "id": 868,
+      "movie_title": "Gladiator",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 868
+    },
+    {
+      "id": 869,
+      "movie_title": "Leon zawodowiec",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 869
+    },
+    {
+      "id": 870,
+      "movie_title": "W\u0142adca Pier\u015bcieni: Dwie wie\u017ce",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 870
+    },
+    {
+      "id": 871,
+      "movie_title": "W\u0142adca Pier\u015bcieni: Powr\u00f3t kr\u00f3la",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 871
+    },
+    {
+      "id": 872,
+      "movie_title": "Iron Man II",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 872
+    },
+    {
+      "id": 873,
+      "movie_title": "Przebudzenie",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 873
+    },
+    {
+      "id": 874,
+      "movie_title": "Stra\u017cnicy Galaktyki",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 874
+    },
+    {
+      "id": 875,
+      "movie_title": "Odlot",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 875
+    },
+    {
+      "id": 876,
+      "movie_title": "Dystrykt 9",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 876
+    },
+    {
+      "id": 877,
+      "movie_title": "2012",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 877
+    },
+    {
+      "id": 878,
+      "movie_title": "M\u00f3j przyjaciel Hachiko",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 878
+    },
+    {
+      "id": 879,
+      "movie_title": "Hobbit: Bitwa Pi\u0119ciu Armii",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 879
+    },
+    {
+      "id": 880,
+      "movie_title": "Green Book",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 880
+    },
+    {
+      "id": 881,
+      "movie_title": "Transformers",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 881
+    },
+    {
+      "id": 882,
+      "movie_title": "Harry Potter i Insygnia \u015amierci: Cz\u0119\u015b\u0107 I",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 882
+    },
+    {
+      "id": 883,
+      "movie_title": "Jurassic Park 3D",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 883
+    },
+    {
+      "id": 884,
+      "movie_title": "Piraci z Karaib\u00f3w: Na nieznanych wodach",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 884
+    },
+    {
+      "id": 885,
+      "movie_title": "Avengers 3D",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 885
+    },
+    {
+      "id": 886,
+      "movie_title": "Prze\u0142\u0119cz ocalonych",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 886
+    },
+    {
+      "id": 887,
+      "movie_title": "Labirynt",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 887
+    },
+    {
+      "id": 888,
+      "movie_title": "Iron Man",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 888
+    },
+    {
+      "id": 889,
+      "movie_title": "Madagaskar",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 889
+    },
+    {
+      "id": 890,
+      "movie_title": "Zjawa",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 890
+    },
+    {
+      "id": 891,
+      "movie_title": "Uprowadzona",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 891
+    },
+    {
+      "id": 892,
+      "movie_title": "Kevin sam w domu",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 892
+    },
+    {
+      "id": 893,
+      "movie_title": "Jestem Bogiem",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 893
+    },
+    {
+      "id": 894,
+      "movie_title": "W jak wendeta",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 894
+    },
+    {
+      "id": 895,
+      "movie_title": "Jak zosta\u0107 kr\u00f3lem",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 895
+    },
+    {
+      "id": 896,
+      "movie_title": "Sekretne okno",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 896
+    },
+    {
+      "id": 897,
+      "movie_title": "\u017bycie jest pi\u0119kne",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 897
+    },
+    {
+      "id": 898,
+      "movie_title": "Sherlock Holmes",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 898
+    },
+    {
+      "id": 899,
+      "movie_title": "Jestem legend\u0105",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 899
+    },
+    {
+      "id": 900,
+      "movie_title": "Zapach kobiety",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 900
+    },
+    {
+      "id": 901,
+      "movie_title": "Slumdog. Milioner z ulicy",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 901
+    },
+    {
+      "id": 902,
+      "movie_title": "Piraci z Karaib\u00f3w: Kl\u0105twa Czarnej Per\u0142y",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 902
+    },
+    {
+      "id": 903,
+      "movie_title": "Pulp Fiction",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 903
+    },
+    {
+      "id": 904,
+      "movie_title": "Milczenie owiec",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 904
+    },
+    {
+      "id": 905,
+      "movie_title": "Forrest Gump",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 905
+    },
+    {
+      "id": 906,
+      "movie_title": "Interstellar",
+      "points": 0,
+      "occurrences": 0,
+      "ranking": 906
+    }
+  ]
+}
