@@ -15,10 +15,11 @@ class App(customtkinter.CTk):
         self.geometry("840x600")
         self.title("MovieRator")
         
-        with open("res/movie_pairings.json", "r") as file:
+        with open("res/movie_pairings_test.json", "r") as file:
+            #TODO process in chunks - file too large
             self.pairing_data = json.load(file)
 
-        with open("res/movie_data.json", "r") as file:
+        with open("res/movie_data_test.json", "r") as file:
             self.movie_data = json.load(file)
         
         self.grid_columnconfigure((0, 1), weight=30)
@@ -32,7 +33,7 @@ class App(customtkinter.CTk):
         self.result_frame = ResultFrame(self, self.movie_data)
         self.result_frame.grid(row=0, column=2, padx=8, pady=8, sticky="nswe", rowspan=3)
         
-        self.settings_frame = SettingsFrame(self)
+        self.settings_frame = SettingsFrame(self, self.pairing_data, self.movie_data)
         self.settings_frame.grid(row=2, column=0, padx=(8, 0), pady=(0, 8), sticky="nswe", rowspan=1)
         
         self.stats_frame = StatsFrame(self)

@@ -1,7 +1,6 @@
 import tkinter
 import customtkinter
 import res.font_constants as fonts
-import json
 
 class ResultFrame(customtkinter.CTkScrollableFrame):
     def __init__(self, master, movie_data):
