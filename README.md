@@ -2,7 +2,7 @@
 Minimalistic app for rating (comparing) movies.
 
 <div style="text-align:center">
-    <img src="res/preview.PNG" alt="Preview" style="width: 75%">
+    <img src="res/preview.PNG" alt="Preview" style="width: 100%">
 </div>
 
 ### Getting Started
