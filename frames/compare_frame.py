@@ -4,7 +4,7 @@ from frames.option_frame import OptionFrame
 from db_manager import DatabaseManager
 
 class CompareFrame(customtkinter.CTkFrame):
-    def __init__(self, master):
+    def __init__(self, master, stats_frame):
         super().__init__(master)
         
         self.grid_columnconfigure((0, 1), weight=1)
@@ -16,9 +16,9 @@ class CompareFrame(customtkinter.CTkFrame):
         self.frame_title = customtkinter.CTkLabel(self, text="Compare", font=fonts.ARIAL_H1)
         self.frame_title.grid(row=0, column=0, columnspan=2, padx=10, pady=10, sticky="nwe")
         
-        self.option_frame_1 = OptionFrame(self, 1)
+        self.option_frame_1 = OptionFrame(self, 1, stats_frame)
         self.option_frame_1.grid(row=1, column=0, padx=(8, 4), pady=8, sticky="nswe")
-        self.option_frame_2 = OptionFrame(self, 2)
+        self.option_frame_2 = OptionFrame(self, 2, stats_frame)
         self.option_frame_2.grid(row=1, column=1, padx=(4, 8), pady=8, sticky="nswe")
         
         self.test_btn = customtkinter.CTkButton(self, text="Skip", command=self.pair, font=fonts.ARIAL_DEFAULT)

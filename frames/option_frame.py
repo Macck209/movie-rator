@@ -3,7 +3,7 @@ import res.font_constants as fonts
 from db_manager import DatabaseManager
 
 class OptionFrame(customtkinter.CTkFrame):
-    def __init__(self, master, frame_number):
+    def __init__(self, master, frame_number, stats_frame):
         super().__init__(master)
         
         self.grid_columnconfigure(0, weight=1)
@@ -17,6 +17,7 @@ class OptionFrame(customtkinter.CTkFrame):
             self.other_frame_number = 1
         
         self.db_manager = DatabaseManager()
+        self.stats_frame = stats_frame
         
         self.movie_title = customtkinter.CTkTextbox(self, font=fonts.ARIAL_DEFAULT, state="disabled", wrap="word", activate_scrollbars=False)
         self.movie_title.grid(row=0, column=0, padx=10, pady=10, sticky="nwes")
@@ -45,9 +46,5 @@ class OptionFrame(customtkinter.CTkFrame):
         self.db_manager.execute_query('UPDATE Movies SET occurrences = occurrences + 1 WHERE id = ?', (self.pairing[self.frame_number]))
         self.db_manager.execute_query('UPDATE Movies SET occurrences = occurrences + 1 WHERE id = ?', (self.pairing[self.other_frame_number]))
         
-        #self.pairing["used"] = True
-        #self.movie["points"] +=1
-        #self.movie["occurrences"] +=1
-        #self.other_movie["occurrences"] +=1
-        
+        self.stats_frame.update_stats()
         self.master.pair()
