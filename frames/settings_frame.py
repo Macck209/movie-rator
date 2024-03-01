@@ -24,9 +24,9 @@ class SettingsFrame(customtkinter.CTkFrame):
         self.exit_btn = customtkinter.CTkButton(self, text="Save & exit", command=self.exit_app, font=fonts.ARIAL_DEFAULT)
         self.exit_btn.grid(row=3, column=0, padx=32, pady=(0,10), sticky="nwe")
     
-    #TODO remove after adding results filtering
+    #TODO move this after adding results filtering
     def update_results(self):
-        self.result_frame.update()
+        self.result_frame.update_ranking()
     
     def change_theme(self):
         if customtkinter.AppearanceModeTracker.appearance_mode:

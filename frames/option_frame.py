@@ -46,5 +46,6 @@ class OptionFrame(customtkinter.CTkFrame):
         self.db_manager.execute_query('UPDATE Movies SET occurrences = occurrences + 1 WHERE id = ?', (self.pairing[self.frame_number]))
         self.db_manager.execute_query('UPDATE Movies SET occurrences = occurrences + 1 WHERE id = ?', (self.pairing[self.other_frame_number]))
         
+        self.db_manager.update_ranking()
         self.stats_frame.update_stats()
         self.master.pair()

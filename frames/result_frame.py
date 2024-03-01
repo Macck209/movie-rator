@@ -12,27 +12,31 @@ class ResultFrame(customtkinter.CTkScrollableFrame):
         self.configure(label_font = fonts.ARIAL_H1)
         
         self.db_manager = DatabaseManager()
+        self.labels = []
         
-        movies = self.db_manager.execute_query('SELECT * FROM Movies ORDER BY ranking LIMIT 100')
+        self.update_ranking()
+    
+    #TODO
+    def update_ranking(self):
+        self.movies = self.db_manager.execute_query('SELECT * FROM Movies WHERE occurrences != 0 ORDER BY ranking LIMIT 100')
         
-        for movie in movies:
+        for label in self.labels:
+            label.destroy()
+        
+        for movie in self.movies:
             movie_title = movie[1]
             points = movie[2]
             occurrences = movie[3]
             ranking = movie[4]
             
-            if ranking == 50:
-                break
-            '''elif occurrences == 0:
-                continue'''
+            if occurrences == 0:
+                continue
             
-            label_text = f"{ranking} {movie_title}" #TODO {round(points/occurrences, 2)}
+            label_text = f"{ranking} {movie_title}"
             
-            self.label = customtkinter.CTkTextbox(self, font=fonts.ARIAL_DEFAULT_16, state="normal", wrap="char", activate_scrollbars=False, height=18)
-            self.label.insert("0.0", label_text, "center")
-            self.label.configure(state="disabled")
-            self.label.pack(pady=2, expand=True, fill=tkinter.X)
-    
-    #TODO
-    def update(self):
-        pass
+            label = customtkinter.CTkTextbox(self, font=fonts.ARIAL_DEFAULT_16, state="normal", wrap="char", activate_scrollbars=False, height=18)
+            label.insert("0.0", label_text, "center")
+            label.configure(state="disabled")
+            label.pack(pady=2, expand=True, fill=tkinter.X)
+            
+            self.labels.append(label)

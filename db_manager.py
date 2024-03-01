@@ -15,5 +15,19 @@ class DatabaseManager:
         self.conn.commit()
         return self.cursor.fetchall()
     
+    def update_ranking(self):
+        self.cursor.execute('''
+    SELECT *, CASE WHEN occurrences = 0 THEN -1 ELSE points/occurrences END AS ratio
+    FROM Movies
+    ORDER BY ratio DESC;
+''')
+        ordered_movies = self.cursor.fetchall()
+        
+        for index, movie in enumerate(ordered_movies, start=1):
+            movie_id = movie[0]
+            self.cursor.execute('UPDATE Movies SET ranking = ? WHERE id = ?', (index, movie_id))
+        
+        self.conn.commit()
+    
     def close_connection(self):
         self.conn.close()
