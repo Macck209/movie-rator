@@ -5,8 +5,6 @@ tests/
 .vscode/
 movies.html
 db.py
-res/movie_data.json
-res/movie_pairings.json
 res/movie_data_test.json
 res/movie_pairings_test.json
 db2.py
