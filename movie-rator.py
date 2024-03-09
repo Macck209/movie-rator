@@ -16,7 +16,7 @@ class App(customtkinter.CTk):
         self.title("MovieRator")
         
         self.grid_columnconfigure((0, 1), weight=30)
-        self.grid_columnconfigure(1, weight=40)
+        self.grid_columnconfigure(2, weight=20)
         self.grid_rowconfigure((0, 1), weight=40)
         self.grid_rowconfigure(2, weight=30)
         self.grid_rowconfigure(3, weight=10)

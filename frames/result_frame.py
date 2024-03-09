@@ -18,7 +18,7 @@ class ResultFrame(customtkinter.CTkScrollableFrame):
     
     def update_ranking(self, filter_string=''):
         if filter_string != '':
-            self.movies = self.db_manager.execute_query('SELECT * FROM Movies WHERE occurrences != 0 AND movie_title LIKE ? ORDER BY ranking', (f"%{filter_string}%"))
+            self.movies = self.db_manager.execute_query('SELECT * FROM Movies WHERE occurrences != 0 AND LOWER(movie_title) LIKE ? ORDER BY ranking', (f"%{filter_string.lower()}%"))
         else:
             self.movies = self.db_manager.execute_query('SELECT * FROM Movies WHERE occurrences != 0 ORDER BY ranking LIMIT 100')
         
