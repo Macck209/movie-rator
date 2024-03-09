@@ -21,8 +21,8 @@ class CompareFrame(customtkinter.CTkFrame):
         self.option_frame_2 = OptionFrame(self, 2, stats_frame)
         self.option_frame_2.grid(row=1, column=1, padx=(4, 8), pady=8, sticky="nswe")
         
-        self.test_btn = customtkinter.CTkButton(self, text="Skip", command=self.pair, font=fonts.ARIAL_DEFAULT)
-        self.test_btn.grid(row=2, column=0, columnspan=2, padx=64, pady=(10,10), sticky="nwe")
+        self.skip_btn = customtkinter.CTkButton(self, text="Skip", command=self.pair, font=fonts.ARIAL_DEFAULT)
+        self.skip_btn.grid(row=2, column=0, columnspan=2, padx=64, pady=(10,10), sticky="nwe")
         
         self.pair()
 

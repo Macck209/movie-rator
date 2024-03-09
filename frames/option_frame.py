@@ -20,11 +20,11 @@ class OptionFrame(customtkinter.CTkFrame):
         self.stats_frame = stats_frame
         
         self.movie_title = customtkinter.CTkTextbox(self, font=fonts.ARIAL_DEFAULT, state="disabled", wrap="word", activate_scrollbars=False)
-        self.movie_title.grid(row=0, column=0, padx=10, pady=10, sticky="nwes")
+        self.movie_title.grid(row=0, column=0, padx=8, pady=8, sticky="nwes")
         self.movie_title.tag_config("center", justify="center", spacing1=96, spacing3=128)
         
         self.movie_btn = customtkinter.CTkButton(self, text="Better", command=self.selection, font=fonts.ARIAL_DEFAULT)
-        self.movie_btn.grid(row=1, column=0, padx=10, pady=(0, 10), sticky="nswe")
+        self.movie_btn.grid(row=1, column=0, padx=8, pady=(0, 8), sticky="nswe")
     
     def update(self, pairing):
         self.pairing = pairing

@@ -2,6 +2,7 @@ import tkinter
 import customtkinter
 import res.font_constants as fonts
 from db_manager import DatabaseManager
+import threading
 
 class ResultFrame(customtkinter.CTkScrollableFrame):
     def __init__(self, master):
@@ -16,16 +17,18 @@ class ResultFrame(customtkinter.CTkScrollableFrame):
         
         self.update_ranking()
     
-    #TODO
-    def update_ranking(self):
-        self.movies = self.db_manager.execute_query('SELECT * FROM Movies WHERE occurrences != 0 ORDER BY ranking LIMIT 100')
+    def update_ranking(self, filter_string='', filter_entry=None):
+        if filter_string != '':
+            self.movies = self.db_manager.execute_query('SELECT * FROM Movies WHERE occurrences != 0 AND movie_title LIKE ? ORDER BY ranking LIMIT 100', (f"%{filter_string}%"))
+        else:
+            self.movies = self.db_manager.execute_query('SELECT * FROM Movies WHERE occurrences != 0 ORDER BY ranking LIMIT 100')
         
         for label in self.labels:
             label.destroy()
         
         for movie in self.movies:
             movie_title = movie[1]
-            points = movie[2]
+            #points = movie[2]
             occurrences = movie[3]
             ranking = movie[4]
             
@@ -40,3 +43,6 @@ class ResultFrame(customtkinter.CTkScrollableFrame):
             label.pack(pady=2, expand=True, fill=tkinter.X)
             
             self.labels.append(label)
+        
+        if filter_entry != None:
+            filter_entry.configure(state="normal")

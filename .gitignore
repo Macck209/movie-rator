@@ -4,9 +4,5 @@ venv/
 tests/
 .vscode/
 movies.html
-db.py
-res/movie_data_test.json
-res/movie_pairings_test.json
-db2.py
 sqlite3.exe
 movies.db

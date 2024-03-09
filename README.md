@@ -13,7 +13,10 @@ Minimalistic app for rating (comparing) movies.
 2. Install dependencies
    ```bash
    pip install -r requirements.txt --upgrade
-3. Run the script
+3. When running first time, execute this script first (w.i.p)
+   ```bash
+   python database-setup.py
+4. Execute this script to run the app
    ```bash
    python movie-rator.py
 ### Important info
