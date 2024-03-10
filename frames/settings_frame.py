@@ -14,15 +14,15 @@ class SettingsFrame(customtkinter.CTkFrame):
         self.db_manager = DatabaseManager()
         
         self.frame_label = customtkinter.CTkLabel(self, text="Options", font=fonts.ARIAL_H1)
-        self.frame_label.grid(row=0, column=0, padx=10, pady=10, sticky="swe")
+        self.frame_label.grid(row=0, column=0, padx=8, pady=8, sticky="swe")
         self.frame_label._text.center
         
         self.refresh_btn = customtkinter.CTkButton(self, text="Update results", command=self.update_results, font=fonts.ARIAL_DEFAULT)
-        self.refresh_btn.grid(row=1, column=0, padx=32, pady=0, sticky="nwe")
+        self.refresh_btn.grid(row=1, column=0, padx=8, pady=0, sticky="nwe")
         self.theme_btn = customtkinter.CTkButton(self, text="Change theme", command=self.change_theme, font=fonts.ARIAL_DEFAULT)
-        self.theme_btn.grid(row=2, column=0, padx=32, pady=0, sticky="nwe")
+        self.theme_btn.grid(row=2, column=0, padx=8, pady=0, sticky="nwe")
         self.exit_btn = customtkinter.CTkButton(self, text="Save & exit", command=self.exit_app, font=fonts.ARIAL_DEFAULT)
-        self.exit_btn.grid(row=3, column=0, padx=32, pady=(0,10), sticky="nwe")
+        self.exit_btn.grid(row=3, column=0, padx=8, pady=(0,8), sticky="nwe")
     
     #TODO move this after adding results filtering
     def update_results(self):
