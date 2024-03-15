@@ -30,11 +30,12 @@ class ResultFrame(customtkinter.CTkScrollableFrame):
             #points = movie[2]
             occurrences = movie[3]
             ranking = movie[4]
+            final_score = movie[6]
             
             if occurrences == 0:
                 continue
             
-            label_text = f"{ranking} {movie_title}"
+            label_text = f"{ranking}. {round(final_score,2)}pkt {movie_title}"
             
             label = customtkinter.CTkTextbox(self, font=fonts.ARIAL_DEFAULT_16, state="normal", wrap="char", activate_scrollbars=False, height=18)
             label.insert("0.0", label_text, "center")

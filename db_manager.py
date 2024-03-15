@@ -6,7 +6,7 @@ class DatabaseManager:
     def __new__(cls):
         if not cls.instance:
             cls.instance = super(DatabaseManager, cls).__new__(cls)
-            cls.instance.conn = sqlite3.connect('movies.db')
+            cls.instance.conn = sqlite3.connect('tests/series.db') # Enter your database path
             cls.instance.cursor = cls.instance.conn.cursor()
         return cls.instance
 
@@ -17,9 +17,9 @@ class DatabaseManager:
     
     def update_ranking(self):
         self.cursor.execute('''
-    SELECT *, CASE WHEN occurrences = 0 THEN -1 ELSE points/occurrences END AS ratio
+    SELECT *, CASE WHEN occurrences = 0 THEN -1 ELSE final_score END AS ranked_score
     FROM Movies
-    ORDER BY ratio DESC;
+    ORDER BY ranked_score DESC;
 ''')
         ordered_movies = self.cursor.fetchall()
         

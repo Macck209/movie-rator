@@ -43,8 +43,11 @@ class OptionFrame(customtkinter.CTkFrame):
         
         self.db_manager.execute_query('UPDATE Pairings SET used = True WHERE id = ?', (self.pairing[0]))
         self.db_manager.execute_query('UPDATE Movies SET points = points + 1 WHERE id = ?', (self.pairing[self.frame_number]))
+        self.db_manager.execute_query('UPDATE Movies SET points = points - 1 WHERE id = ?', (self.pairing[self.other_frame_number]))
         self.db_manager.execute_query('UPDATE Movies SET occurrences = occurrences + 1 WHERE id = ?', (self.pairing[self.frame_number]))
         self.db_manager.execute_query('UPDATE Movies SET occurrences = occurrences + 1 WHERE id = ?', (self.pairing[self.other_frame_number]))
+        self.db_manager.execute_query('UPDATE Movies SET final_score = base_score + (points/occurrences) WHERE id = ?', (self.pairing[self.frame_number]))
+        self.db_manager.execute_query('UPDATE Movies SET final_score = base_score + (points/occurrences) WHERE id = ?', (self.pairing[self.other_frame_number]))
         
         self.db_manager.update_ranking()
         self.stats_frame.update_stats()
